@@ -1,106 +1,189 @@
-id,brand,gym_name,street_address,postal_code,city,region,country,homepage,instagram,latitude,longitude,bouldering,lead,top_rope,moonboard,kilterboard,spraywall,continent,grading_type,last_verified
-dk-boulders-aalborg,Boulders,Boulders Aalborg,Skjernvej 4A,9220,Aalborg,Nordjylland,Denmark,https://boulders.dk,,,,true,false,false,true,true,true,Europe,color,2026-06-13
-dk-boulders-aarhus-aaby,Boulders,Boulders Aarhus Aaby,Søren Frichs Vej 54,8230,Aabyhøj,Midtjylland,Denmark,https://boulders.dk,,,,true,false,false,true,true,true,Europe,color,2026-06-13
-dk-boulders-aarhus-city,Boulders,Boulders Aarhus City,Ankersgade 12C,8000,Aarhus C,Midtjylland,Denmark,https://boulders.dk,@bouldersaarhuscity,,,true,false,false,true,false,true,Europe,color,2026-06-13
-dk-boulders-aarhus-nord,Boulders,Boulders Aarhus Nord,Graham Bells Vej 18A,8200,Aarhus N,Midtjylland,Denmark,https://boulders.dk,@bouldersaarhusnord,,,true,false,false,true,false,true,Europe,color,2026-06-13
-dk-boulders-aarhus-syd,Boulders,Boulders Aarhus Syd,Søren Nymarks Vej 6A,8270,Højbjerg,Midtjylland,Denmark,https://boulders.dk,@bouldersaarhussyd,,,true,false,false,false,true,true,Europe,color,2026-06-13
-dk-boulders-odense,Boulders,Boulders Odense,Wichmannsgade 11,5000,Odense C,Syddanmark,Denmark,https://boulders.dk,@bouldersodense,,,true,false,false,true,false,true,Europe,color,2026-06-13
-dk-boulders-amager,Boulders,Boulders Amager,Amager Landevej 233,2770,Kastrup,Hovedstaden,Denmark,https://boulders.dk,@bouldersamager,,,true,false,false,false,true,false,Europe,color,2026-06-13
-dk-boulders-hvidovre,Boulders,Boulders Hvidovre,Strandmarksvej 20,2650,Hvidovre,Hovedstaden,Denmark,https://boulders.dk,@bouldershvidovre,,,true,false,false,false,true,true,Europe,color,2026-06-13
-dk-boulders-sydhavn,Boulders,Boulders Sydhavn,Bådehavnsgade 38,2450,København SV,Hovedstaden,Denmark,https://boulders.dk,@boulderscphsydhavn,,,true,false,false,true,false,true,Europe,color,2026-06-13
-dk-boulders-valby,Boulders,Boulders Valby,Pakkerivej 27,2500,Valby,Hovedstaden,Denmark,https://boulders.dk,@bouldersvalby,,,true,false,false,false,true,false,Europe,color,2026-06-13
-dk-boulders-vanlose,Boulders,Boulders Vanløse,"Vanløse Torv 1, Kronen",2720,Vanløse,Hovedstaden,Denmark,https://boulders.dk,@bouldersvanloese,,,true,false,false,true,true,true,Europe,color,2026-06-13
-dk-bison-kodbyen,Bison Boulders,Bison Boulders Kødbyen,Flæsketorvet 89,1711,København V,Hovedstaden,Denmark,https://www.bison-boulders.com,@bison.boulders,,,true,false,false,,,,Europe,color,2026-06-13
-dk-bison-tobaksbyen,Bison Boulders,Bison Boulders Tobaksbyen,Tobaksvejen 20,2860,Søborg,Hovedstaden,Denmark,https://www.bison-boulders.com,@bison.boulders,,,true,false,false,,,,Europe,color,2026-06-13
-dk-beta-osterbro,Beta Boulders,Beta Boulders Østerbro,Aldersrogade 6C,2100,København Ø,Hovedstaden,Denmark,https://betaboulders.com,@betaboulders,,,true,false,false,false,true,,Europe,color,2026-06-13
-dk-beta-sydhavn,Beta Boulders,Beta Boulders Sydhavn,Pladehals Allé 26,2450,København SV,Hovedstaden,Denmark,https://betaboulders.com,@betaboulders,,,true,false,false,,,,Europe,color,2026-06-13
-dk-beta-vanlose,Beta Boulders,Beta Boulders Vanløse,Kastanie Allé 8,2720,Vanløse,Hovedstaden,Denmark,https://betaboulders.com,@betaboulders,,,true,false,false,,,,Europe,color,2026-06-13
-de-boulderwelt-muenchen-ost,Boulderwelt,Boulderwelt München Ost,,,München,Bayern,Germany,https://www.boulderwelt-muenchen-ost.de,@boulderweltmuenchenost,,,true,false,false,,,,Europe,,2026-06-13
-de-boulderwelt-muenchen-west,Boulderwelt,Boulderwelt München West,,,München,Bayern,Germany,https://www.boulderwelt-muenchen-west.de,@boulderweltmuenchenwest,,,true,false,false,,,,Europe,,2026-06-13
-de-boulderwelt-muenchen-sued,Boulderwelt,Boulderwelt München Süd,,,Brunnthal,Bayern,Germany,https://www.boulderwelt-muenchen-sued.de,,,,true,false,false,,,,Europe,,2026-06-13
-de-boulderwelt-frankfurt,Boulderwelt,Boulderwelt Frankfurt,,,Frankfurt am Main,Hessen,Germany,https://www.boulderwelt-frankfurt.de,@boulderweltfrankfurt,,,true,false,false,,,,Europe,,2026-06-13
-de-boulderwelt-dortmund,Boulderwelt,Boulderwelt Dortmund,,,Dortmund,Nordrhein-Westfalen,Germany,https://www.boulderwelt-dortmund.de,@boulderweltdortmund,,,true,false,false,,,,Europe,,2026-06-13
-de-boulderwelt-regensburg,Boulderwelt,Boulderwelt Regensburg,,,Regensburg,Bayern,Germany,https://www.boulderwelt-regensburg.de,,,,true,false,false,,,,Europe,,2026-06-13
-de-boulderwelt-karlsruhe,Boulderwelt,Boulderwelt Karlsruhe,,,Karlsruhe,Baden-Württemberg,Germany,https://www.boulderwelt-karlsruhe.de,@boulderweltkarlsruhe,,,true,false,false,,,,Europe,,2026-06-13
-de-boulderwelt-hamburg,Boulderwelt,Boulderwelt Hamburg,,,Hamburg,Hamburg,Germany,https://www.boulderwelt-hamburg.de,@boulderwelthamburg,,,true,false,false,,,,Europe,,2026-06-13
-de-stuntwerk-koeln-zollstock,Stuntwerk,Stuntwerk Köln Zollstock,,,Köln,Nordrhein-Westfalen,Germany,https://stuntwerk.de,@stuntwerk_koeln_zollstock,,,true,false,false,,,,Europe,,2026-06-13
-de-stuntwerk-koeln-muelheim,Stuntwerk,Stuntwerk Köln Mülheim,,,Köln,Nordrhein-Westfalen,Germany,https://stuntwerk.de,@stuntwerk_koeln_muelheim,,,true,false,false,,,,Europe,,2026-06-13
-de-stuntwerk-senden,Stuntwerk,Stuntwerk Senden,,,Senden,Nordrhein-Westfalen,Germany,https://stuntwerk.de,@stuntwerk_de,,,true,false,false,,,,Europe,,2026-06-13
-de-stuntwerk-rosenheim,Stuntwerk,Stuntwerk Rosenheim,,,Rosenheim,Bayern,Germany,https://stuntwerk.de,@stuntwerk_de,,,true,false,false,,,,Europe,,2026-06-13
-de-stuntwerk-krefeld,Stuntwerk,Stuntwerk Krefeld,,,Krefeld,Nordrhein-Westfalen,Germany,https://stuntwerk.de,@stuntwerk_de,,,true,false,false,,,,Europe,,2026-06-13
-de-einstein-ulm,einstein,einstein Boulderhalle Ulm,Blaubeurer Straße 100,89077,Ulm,Baden-Württemberg,Germany,https://einstein-boulder.com,,,,true,false,false,,,,Europe,,2026-06-13
-de-einstein-muenchen,einstein,einstein Boulderhalle München,Landsberger Straße 185,80687,München,Bayern,Germany,https://muenchen.einstein-boulder.com,,,,true,false,false,,,,Europe,,2026-06-13
-de-einstein-duisburg,einstein,einstein Boulderhalle Duisburg,Essenberger Straße 85,47059,Duisburg,Nordrhein-Westfalen,Germany,https://einstein-boulder.com,,,,true,false,false,,,,Europe,,2026-06-13
-de-einstein-recklinghausen,einstein,einstein Boulderhalle Recklinghausen,Walkmühlenweg 55,45661,Recklinghausen,Nordrhein-Westfalen,Germany,https://einstein-boulder.com,,,,true,false,false,,,,Europe,,2026-06-13
-de-einstein-duesseldorf,einstein,einstein Boulderhalle Düsseldorf,Lierenfelder Straße 49,40231,Düsseldorf,Nordrhein-Westfalen,Germany,https://duesseldorf.einstein-boulder.com,,,,true,false,false,,,,Europe,,2026-06-13
-de-einstein-koeln,einstein,einstein Boulderhalle Köln,Widdersdorfer Straße 205,50825,Köln,Nordrhein-Westfalen,Germany,https://einstein-boulder.com,,,,true,false,false,,,,Europe,,2026-06-13
-de-kletterfabrik-koeln,Kletterfabrik,Kletterfabrik Köln,,,Köln,Nordrhein-Westfalen,Germany,https://www.kletterfabrik.koeln,,,,true,true,true,,,,Europe,,2026-06-13
-at-boulderbar-wien-wienerberg,boulderbar,boulderbar Wien Wienerberg,,,Wien,Wien,Austria,https://boulderbar.net,@boulderbar,,,true,false,false,,,,Europe,,2026-06-13
-at-boulderbar-wien-hannovergasse,boulderbar,boulderbar Wien Hannovergasse,,,Wien,Wien,Austria,https://boulderbar.net,@boulderbar,,,true,false,false,,,,Europe,,2026-06-13
-at-boulderbar-salzburg,boulderbar,boulderbar Salzburg,,,Salzburg,Salzburg,Austria,https://boulderbar.net/salzburg,@boulderbarsalzburg,,,true,false,false,,,,Europe,,2026-06-13
-at-boulderbar-linz,boulderbar,boulderbar Linz,,,Linz,Oberösterreich,Austria,https://boulderbar.net,@boulderbar,,,true,false,false,,,,Europe,,2026-06-13
-at-boulderbar-st-poelten,boulderbar,boulderbar St. Pölten,,,St. Pölten,Niederösterreich,Austria,https://boulderbar.net,@boulderbar,,,true,false,false,,,,Europe,,2026-06-13
-fr-arkose-nation,Arkose,Arkose Nation,,,Paris,Île-de-France,France,https://arkose.com,@arkose.climbing,,,true,false,false,,,,Europe,,2026-06-13
-fr-arkose-didot,Arkose,Arkose Didot,,,Paris,Île-de-France,France,https://arkose.com,@arkose.climbing,,,true,false,false,,,,Europe,,2026-06-13
-fr-arkose-massy,Arkose,Arkose Massy,,,Massy,Île-de-France,France,https://arkose.com,@arkose.climbing,,,true,false,false,,,,Europe,,2026-06-13
-fr-arkose-montreuil,Arkose,Arkose Montreuil,,,Montreuil,Île-de-France,France,https://arkose.com,@arkose.climbing,,,true,false,false,,,,Europe,,2026-06-13
-fr-arkose-pont-de-sevres,Arkose,Arkose Pont de Sèvres,,,Sèvres,Île-de-France,France,https://pontdesevres.arkose.com,@arkose.climbing,,,true,false,false,,,,Europe,,2026-06-13
-fr-arkose-bordeaux,Arkose,Arkose Bordeaux,,,Bordeaux,Nouvelle-Aquitaine,France,https://arkose.com,@arkose.climbing,,,true,false,false,,,,Europe,,2026-06-13
-fr-arkose-lyon,Arkose,Arkose Lyon,,,Lyon,Auvergne-Rhône-Alpes,France,https://arkose.com,@arkose.climbing,,,true,false,false,,,,Europe,,2026-06-13
-fr-arkose-villeurbanne,Arkose,Arkose Villeurbanne,,,Villeurbanne,Auvergne-Rhône-Alpes,France,https://arkose.com,@arkose.climbing,,,true,false,false,,,,Europe,,2026-06-13
-fr-verticalart-pigalle,Vertical'Art,Vertical'Art Paris Pigalle,,,Paris,Île-de-France,France,https://www.vertical-art.fr,@va_climbing_pigalle,,,true,false,false,,,,Europe,,2026-06-13
-fr-verticalart-chevaleret,Vertical'Art,Vertical'Art Paris Chevaleret,,,Paris,Île-de-France,France,https://www.vertical-art.fr,@verticalart_climbing,,,true,false,false,,,,Europe,,2026-06-13
-fr-verticalart-sqy,Vertical'Art,Vertical'Art SQY,,,Montigny-le-Bretonneux,Île-de-France,France,https://montigny.vertical-art.fr,@verticalart_climbing,,,true,false,false,,,,Europe,,2026-06-13
-fr-verticalart-rungis,Vertical'Art,Vertical'Art Rungis,,,Rungis,Île-de-France,France,https://rungis.vertical-art.fr,@verticalart_climbing,,,true,false,false,,,,Europe,,2026-06-13
-fr-verticalart-nantes,Vertical'Art,Vertical'Art Nantes,,,Nantes,Pays de la Loire,France,https://nantes.vertical-art.fr,@va_climbing_nantes,,,true,false,false,,,,Europe,,2026-06-13
-fr-verticalart-lille,Vertical'Art,Vertical'Art Lille,,,Lille,Hauts-de-France,France,https://lille.vertical-art.fr,@va_climbing_lille,,,true,false,false,,,,Europe,,2026-06-13
-fr-verticalart-toulon,Vertical'Art,Vertical'Art Toulon,,,Toulon,Provence-Alpes-Côte d'Azur,France,https://toulon.vertical-art.fr,@verticalart_climbing,,,true,false,false,,,,Europe,,2026-06-13
-fr-verticalart-dijon,Vertical'Art,Vertical'Art Dijon,,,Dijon,Bourgogne-Franche-Comté,France,https://www.vertical-art.fr,@va_climbing_dijon,,,true,false,false,,,,Europe,,2026-06-13
-fr-verticalart-grenoble,Vertical'Art,Vertical'Art Grenoble,,,Grenoble,Auvergne-Rhône-Alpes,France,https://www.vertical-art.fr,@va_climbing_grenoble,,,true,false,false,,,,Europe,,2026-06-13
-fr-verticalart-lemans,Vertical'Art,Vertical'Art Le Mans,,,Le Mans,Pays de la Loire,France,https://www.vertical-art.fr,@va_climbing_lemans,,,true,false,false,,,,Europe,,2026-06-13
-fr-verticalart-brest,Vertical'Art,Vertical'Art Brest,,,Gouesnou,Bretagne,France,https://www.vertical-art.fr,@va_climbing_brest,,,true,false,false,,,,Europe,,2026-06-13
-fr-climbup-paris-porte-italie,Climb Up,Climb Up Paris Porte d'Italie,,,Paris,Île-de-France,France,https://paris-porteditalie.climb-up.fr,@climb_up_paris,,,true,true,false,,,,Europe,,2026-06-13
-fr-climbup-aubervilliers,Climb Up,Climb Up Aubervilliers,,,Aubervilliers,Île-de-France,France,https://aubervilliers.climb-up.fr,@climb_up_officiel,,,true,true,true,,,,Europe,,2026-06-13
-fr-climbup-saint-etienne,Climb Up,Climb Up Saint-Étienne,9 Esplanade Bénevent,42000,Saint-Étienne,Auvergne-Rhône-Alpes,France,https://www.climb-up.fr,@climb_up_saint_etienne,,,true,true,true,,,,Europe,,2026-06-13
-fr-climbup-orleans-saran,Climb Up,Climb Up Orléans (Saran),,,Saran,Centre-Val de Loire,France,https://climbup.fr,@climb_up_officiel,,,true,true,true,,,,Europe,,2026-06-13
-fr-blockout-paris,Block'Out,Block'Out Paris,,,Saint-Ouen,Île-de-France,France,https://www.blockout.fr/paris,@blockoutparis,,,true,true,false,,,,Europe,,2026-06-13
-fr-blockout-strasbourg,Block'Out,Block'Out Strasbourg,,,Strasbourg,Grand Est,France,https://www.blockout.fr,@blockoutstrasbourg,,,true,true,false,,,,Europe,,2026-06-13
-fr-blockout-nantes,Block'Out,Block'Out Nantes,,,Nantes,Pays de la Loire,France,https://www.blockout.fr,@blockoutnantes,,,true,true,false,,,,Europe,,2026-06-13
-fr-blockout-vitrolles,Block'Out,Block'Out Vitrolles,,,Vitrolles,Provence-Alpes-Côte d'Azur,France,https://www.blockout.fr,@blockoutvitrolles,,,true,true,false,,,,Europe,,2026-06-13
-nl-monk-eindhoven,Monk,Monk Bouldergym Eindhoven,,,Eindhoven,Noord-Brabant,Netherlands,https://monk.nl,@monk_eindhoven,,,true,false,false,,,,Europe,,2026-06-13
-nl-monk-amsterdam,Monk,Monk Bouldergym Amsterdam,,,Amsterdam,Noord-Holland,Netherlands,https://monk.nl/amsterdam,@monk_amsterdam,,,true,false,false,,,,Europe,,2026-06-13
-nl-monk-rotterdam,Monk,Monk Bouldergym Rotterdam,,,Rotterdam,Zuid-Holland,Netherlands,https://monk.nl,,,,true,false,false,,,,Europe,,2026-06-13
-nl-monk-hilversum,Monk,Monk Bouldergym Hilversum,,,Hilversum,Noord-Holland,Netherlands,https://monk.nl,,,,true,false,false,,,,Europe,,2026-06-13
-nl-sterk-amsterdam,Sterk,Bouldergym Sterk,,,Amsterdam,Noord-Holland,Netherlands,,@boulderhal_sterk,,,true,false,false,,,,Europe,,2026-06-13
-nl-beest-bosenlommer,Beest,Beest Boulders,Willem de Zwijgerlaan 338B,,Amsterdam,Noord-Holland,Netherlands,https://beest.amsterdam,@beest.amsterdam,,,true,false,false,,,,Europe,,2026-06-13
-nl-beest-hetlab,Beest,Beest Boulders Het Lab,Transformatorweg 32,,Amsterdam,Noord-Holland,Netherlands,https://beest.amsterdam,@beest.amsterdam,,,true,false,false,,,,Europe,,2026-06-13
-nl-mountainnetwork-amsterdam,Mountain Network,Klimhal Amsterdam,,,Amsterdam,Noord-Holland,Netherlands,https://www.climbingnetwork.nl,,,,true,true,true,,,,Europe,,2026-06-13
-be-bleau-gent,Bleau,Klimzaal Bleau,Campinglaan 2,,Gent,Oost-Vlaanderen,Belgium,https://www.bleau.be,@klimzaalbleau,,,true,true,true,,,,Europe,,2026-06-13
-be-monk-hasselt,Monk,Monk Bouldergym Hasselt,,,Hasselt,Limburg,Belgium,https://monk.nl,,,,true,false,false,,,,Europe,,2026-06-13
-be-klimzaalblok-antwerpen,Klimzaal Blok,Klimzaal Blok,IJskelderstraat 12/1,2660,Antwerpen,Antwerpen,Belgium,https://klimzaalblok.be,,,,true,false,false,,,,Europe,,2026-06-13
-es-sharma-gava,Sharma Climbing,Sharma Climbing Gavà,Carrer Girona 25,8850,Gavà,Catalonia,Spain,https://sharmaclimbing.com,@sharmaclimbingbcngava,,,true,true,true,,,,Europe,,2026-06-13
-es-sharma-barcelona,Sharma Climbing,Sharma Climbing Barcelona,,,Barcelona,Catalonia,Spain,https://sharmaclimbing.com,@sharmaclimbing,,,true,true,true,,,,Europe,,2026-06-13
-es-sharma-madrid,Sharma Climbing,Sharma Climbing Madrid,,,Madrid,Community of Madrid,Spain,https://sharmaclimbing.com,@sharmaclimbing,,,true,true,true,,,,Europe,,2026-06-13
-es-sputnik-las-rozas,Sputnik Climbing,Sputnik Climbing Las Rozas,,,Las Rozas,Community of Madrid,Spain,https://sputnikclimbing.com,@sputnikclimbing,,,true,true,false,,,,Europe,,2026-06-13
-es-sputnik-alcobendas,Sputnik Climbing,Sputnik Climbing Alcobendas,,,Alcobendas,Community of Madrid,Spain,https://sputnikclimbing.com,@sputnikclimbing,,,true,true,false,,,,Europe,,2026-06-13
-es-sputnik-chamberi,Sputnik Climbing,Sputnik Climbing Chamberí,,,Madrid,Community of Madrid,Spain,https://sputnikclimbing.com,@sputnikclimbing,,,true,true,false,,,,Europe,,2026-06-13
-es-sputnik-legazpi,Sputnik Climbing,Sputnik Climbing Legazpi,,,Madrid,Community of Madrid,Spain,https://sputnikclimbing.com,@sputnikclimbing,,,true,true,false,,,,Europe,,2026-06-13
-es-sputnik-guindalera,Sputnik Climbing,Sputnik Climbing Guindalera,,,Madrid,Community of Madrid,Spain,https://sputnikclimbing.com,@sputnikclimbing,,,true,true,false,,,,Europe,,2026-06-13
-es-sputnik-berango,Sputnik Climbing,Sputnik Climbing Berango,,,Berango,Basque Country,Spain,https://sputnikclimbing.com,@sputnikclimbing,,,true,true,false,,,,Europe,,2026-06-13
-es-indoorwall-getafe,Indoorwall,Indoorwall Getafe,Calle Fundidores 27-29,28906,Getafe,Community of Madrid,Spain,https://www.indoorwall.com,@indoorwallmadrid,,,true,true,true,,,,Europe,,2026-06-13
-es-indoorwall-torrejon,Indoorwall,Indoorwall Torrejón,,,Torrejón de Ardoz,Community of Madrid,Spain,https://www.indoorwall.com,@indoorwallmadrid,,,true,true,true,,,,Europe,,2026-06-13
-it-rockspot-milano,Rockspot,Rockspot Milano,Via Fantoli 15,20138,Milano,Lombardy,Italy,https://www.rockspot.it,@rockspot_milanoarrampicata,,,true,true,true,,,,Europe,,2026-06-13
-it-rockspot-pero,Rockspot,Rockspot Pero,Via Gramsci 10,20016,Pero,Lombardy,Italy,https://www.rockspot.it,@rockspot_milanoarrampicata,,,true,true,true,,,,Europe,,2026-06-13
-it-bside-torino,B-Side,B-Side Climbing Village,Via Amedeo Ravina 28,10153,Torino,Piedmont,Italy,https://www.bsideclimbing.it,,,,true,false,false,,,,Europe,,2026-06-13
-se-klatterverket-gasverket,Klätterverket,Klätterverket Gasverket,Gasverksvägen 15,,Stockholm,Stockholm,Sweden,https://klatterverket.se,@klatterverket_gasverket,,,true,true,true,,,,Europe,,2026-06-13
-se-klatterverket-sickla,Klätterverket,Klätterverket Sickla,,,Nacka,Stockholm,Sweden,https://klatterverket.se,@klatterverket_sickla,,,true,true,true,,,,Europe,,2026-06-13
-fi-boulderkeskus-pasila,Boulderkeskus,Boulderkeskus Pasila,Veturitallinkuja 4,520,Helsinki,Uusimaa,Finland,https://www.boulderkeskus.com,@boulderkeskus,,,true,false,false,,,,Europe,,2026-06-13
-fi-boulderkeskus-konala,Boulderkeskus,Boulderkeskus Konala,Ruosilantie 1,390,Helsinki,Uusimaa,Finland,https://www.boulderkeskus.com,@boulderkeskus,,,true,false,false,,,,Europe,,2026-06-13
-fi-boulderkeskus-herttoniemi,Boulderkeskus,Boulderkeskus Herttoniemi,Mekaanikonkatu 15A,880,Helsinki,Uusimaa,Finland,https://www.boulderkeskus.com,@boulderkeskus,,,true,false,false,,,,Europe,,2026-06-13
-fi-boulderkeskus-espoo,Boulderkeskus,Boulderkeskus Espoo,Niittyrinne 2B,2270,Espoo,Uusimaa,Finland,https://www.boulderkeskus.com,@boulderkeskus,,,true,false,false,,,,Europe,,2026-06-13
-fi-boulderkeskus-lauttasaari,Boulderkeskus,Boulderkeskus Lauttasaari (Kino),Lauttasaarentie 10,200,Helsinki,Uusimaa,Finland,https://www.boulderkeskus.com,@boulderkeskus,,,true,false,false,,,,Europe,,2026-06-13
-cz-smichoff-praha,SmíchOFF,Lezecké centrum SmíchOFF,Křížová 6,15000,Praha,Prague,Czech Republic,https://www.lezeckecentrum.cz,,,,true,true,true,,,,Europe,,2026-06-13
-ie-gravity-dublin,Gravity,Gravity Climbing Centre Dublin,,,Dublin,Leinster,Ireland,https://www.gravityclimbing.ie,@gravityclimbingcentre,,,true,false,false,,,,Europe,,2026-06-13
-dk-aalborg-klatreklub,Aalborg Klatreklub,Aalborg Klatreklub,Annebergvej 55,9000,Aalborg,Nordjylland,Denmark,https://www.aalborgklatreklub.dk,@aalborg_klatreklub,,,true,true,true,,,,Europe,,2026-06-13
-dk-norrebro-klatreklub,Nørrebro Klatreklub,Nørrebro Klatreklub,Bragesgade 5,2200,København N,Hovedstaden,Denmark,https://nkk.dk,https://www.instagram.com/noerrebroklatreklub,,,true,,,,,,Europe,,
-dk-obk-odense,OBK,OBK - Odense Boulderklub,Grønløkkevej 4B,5000,Odense C,Syddanmark,Denmark,https://www.odenseboulder.dk,https://www.instagram.com/odenseboulderklub,,,true,,,,,,Europe,,
+id,brand,gym_name,street_address,postal_code,city,region,country,homepage,instagram,latitude,longitude,bouldering,lead,top_rope,moonboard,kilterboard,spraywall,continent,grading_type,last_verified,status,status_date,successor_id
+dk-boulders-aalborg,Boulders,Boulders Aalborg,Skjernvej 4A,9220,Aalborg,Nordjylland,Denmark,https://boulders.dk,,,,true,false,false,true,true,true,Europe,color,2026-06-13,,,
+dk-boulders-aarhus-aaby,Boulders,Boulders Aarhus Aaby,Søren Frichs Vej 54,8230,Aabyhøj,Midtjylland,Denmark,https://boulders.dk,,,,true,false,false,true,true,true,Europe,color,2026-06-13,,,
+dk-boulders-aarhus-city,Boulders,Boulders Aarhus City,Ankersgade 12C,8000,Aarhus C,Midtjylland,Denmark,https://boulders.dk,@bouldersaarhuscity,,,true,false,false,true,false,true,Europe,color,2026-06-13,,,
+dk-boulders-aarhus-nord,Boulders,Boulders Aarhus Nord,Graham Bells Vej 18A,8200,Aarhus N,Midtjylland,Denmark,https://boulders.dk,@bouldersaarhusnord,,,true,false,false,true,false,true,Europe,color,2026-06-13,,,
+dk-boulders-aarhus-syd,Boulders,Boulders Aarhus Syd,Søren Nymarks Vej 6A,8270,Højbjerg,Midtjylland,Denmark,https://boulders.dk,@bouldersaarhussyd,,,true,false,false,false,true,true,Europe,color,2026-06-13,,,
+dk-boulders-odense,Boulders,Boulders Odense,Wichmannsgade 11,5000,Odense C,Syddanmark,Denmark,https://boulders.dk,@bouldersodense,,,true,false,false,true,false,true,Europe,color,2026-06-13,,,
+dk-boulders-amager,Boulders,Boulders Amager,Amager Landevej 233,2770,Kastrup,Hovedstaden,Denmark,https://boulders.dk,@bouldersamager,,,true,false,false,false,true,false,Europe,color,2026-06-13,,,
+dk-boulders-hvidovre,Boulders,Boulders Hvidovre,Strandmarksvej 20,2650,Hvidovre,Hovedstaden,Denmark,https://boulders.dk,@bouldershvidovre,,,true,false,false,false,true,true,Europe,color,2026-06-13,,,
+dk-boulders-sydhavn,Boulders,Boulders Sydhavn,Bådehavnsgade 38,2450,København SV,Hovedstaden,Denmark,https://boulders.dk,@boulderscphsydhavn,,,true,false,false,true,false,true,Europe,color,2026-06-13,,,
+dk-boulders-valby,Boulders,Boulders Valby,Pakkerivej 27,2500,Valby,Hovedstaden,Denmark,https://boulders.dk,@bouldersvalby,,,true,false,false,false,true,false,Europe,color,2026-06-13,,,
+dk-boulders-vanlose,Boulders,Boulders Vanløse,"Vanløse Torv 1, Kronen",2720,Vanløse,Hovedstaden,Denmark,https://boulders.dk,@bouldersvanloese,,,true,false,false,true,true,true,Europe,color,2026-06-13,,,
+dk-bison-kodbyen,Bison Boulders,Bison Boulders Kødbyen,Flæsketorvet 89,1711,København V,Hovedstaden,Denmark,https://www.bison-boulders.com,@bison.boulders,,,true,false,false,,,,Europe,color,2026-06-13,,,
+dk-bison-tobaksbyen,Bison Boulders,Bison Boulders Tobaksbyen,Tobaksvejen 20,2860,Søborg,Hovedstaden,Denmark,https://www.bison-boulders.com,@bison.boulders,,,true,false,false,,,,Europe,color,2026-06-13,,,
+dk-beta-osterbro,Beta Boulders,Beta Boulders Østerbro,Aldersrogade 6C,2100,København Ø,Hovedstaden,Denmark,https://betaboulders.com,@betaboulders,,,true,false,false,false,true,,Europe,color,2026-06-13,,,
+dk-beta-sydhavn,Beta Boulders,Beta Boulders Sydhavn,Pladehals Allé 26,2450,København SV,Hovedstaden,Denmark,https://betaboulders.com,@betaboulders,,,true,false,false,,,,Europe,color,2026-06-13,,,
+dk-beta-vanlose,Beta Boulders,Beta Boulders Vanløse,Kastanie Allé 8,2720,Vanløse,Hovedstaden,Denmark,https://betaboulders.com,@betaboulders,,,true,false,false,,,,Europe,color,2026-06-13,,,
+de-boulderwelt-muenchen-ost,Boulderwelt,Boulderwelt München Ost,Hanne-Hiob-Straße 4,81671,München,Bayern,Germany,https://www.boulderwelt-muenchen-ost.de,@boulderweltmuenchenost,48.1256328,11.6106607,true,false,false,,,,Europe,,2026-06-13,,,
+de-boulderwelt-muenchen-west,Boulderwelt,Boulderwelt München West,Bertha-Kipfmüller-Straße 19,81249,München,Bayern,Germany,https://www.boulderwelt-muenchen-west.de,@boulderweltmuenchenwest,48.1365179,11.4204128,true,false,false,,,,Europe,,2026-06-13,,,
+de-boulderwelt-muenchen-sued,Boulderwelt,Boulderwelt München Süd,Eugen-Sänger-Ring 4,85649,Brunnthal,Bayern,Germany,https://www.boulderwelt-muenchen-sued.de,,48.0405322,11.6638760,true,false,false,,,,Europe,,2026-06-13,,,
+de-boulderwelt-frankfurt,Boulderwelt,Boulderwelt Frankfurt,August-Schanz-Straße 50,60433,Frankfurt am Main,Hessen,Germany,https://www.boulderwelt-frankfurt.de,@boulderweltfrankfurt,50.1641543,8.6847962,true,false,false,,,,Europe,,2026-06-13,,,
+de-boulderwelt-dortmund,Boulderwelt,Boulderwelt Dortmund,Brennaborstraße 10,44149,Dortmund,Nordrhein-Westfalen,Germany,https://www.boulderwelt-dortmund.de,@boulderweltdortmund,51.4946156,7.3774043,true,false,false,,,,Europe,,2026-06-13,,,
+de-boulderwelt-regensburg,Boulderwelt,Boulderwelt Regensburg,Im Gewerbepark A46,93059,Regensburg,Bayern,Germany,https://www.boulderwelt-regensburg.de,,49.0321913,12.1286450,true,false,false,,,,Europe,,2026-06-13,,,
+de-boulderwelt-karlsruhe,Boulderwelt,Boulderwelt Karlsruhe,Karlstraße 14,76133,Karlsruhe,Baden-Württemberg,Germany,https://www.boulderwelt-karlsruhe.de,@boulderweltkarlsruhe,49.0104397,8.3947847,true,false,false,,,,Europe,,2026-06-13,,,
+de-boulderwelt-hamburg,Boulderwelt,Boulderwelt Hamburg,Beim Strohhause 17,20097,Hamburg,Hamburg,Germany,https://www.boulderwelt-hamburg.de,@boulderwelthamburg,53.5540145,10.0208859,true,false,false,,,,Europe,,2026-06-13,,,
+de-stuntwerk-koeln-zollstock,Stuntwerk,Stuntwerk Köln Zollstock,Weyerstraßerweg 10A,50969,Köln,Nordrhein-Westfalen,Germany,https://stuntwerk.de,@stuntwerk_koeln_zollstock,50.9186197,6.9393557,true,false,false,,,,Europe,,2026-06-13,,,
+de-stuntwerk-koeln-muelheim,Stuntwerk,Stuntwerk Köln Mülheim,Schanzenstraße 6-20,51063,Köln,Nordrhein-Westfalen,Germany,https://stuntwerk.de,@stuntwerk_koeln_muelheim,50.9657075,7.0130676,true,false,false,,,,Europe,,2026-06-13,,,
+de-stuntwerk-senden,Stuntwerk,Stuntwerk Senden,Berliner Straße 25,89250,Senden,Nordrhein-Westfalen,Germany,https://stuntwerk.de,@stuntwerk_de,48.3334985,10.0372184,true,false,false,,,,Europe,,2026-06-13,,,
+de-stuntwerk-rosenheim,Stuntwerk,Stuntwerk Rosenheim,Grubholzer Straße 12,83026,Rosenheim,Bayern,Germany,https://stuntwerk.de,@stuntwerk_de,47.8501383,12.0895636,true,false,false,,,,Europe,,2026-06-13,,,
+de-stuntwerk-krefeld,Stuntwerk,Stuntwerk Krefeld,Weyerhofstraße 50,47803,Krefeld,Nordrhein-Westfalen,Germany,https://stuntwerk.de,@stuntwerk_de,51.3448781,6.5437129,true,false,false,,,,Europe,,2026-06-13,,,
+de-einstein-ulm,einstein,einstein Boulderhalle Ulm,Blaubeurer Straße 100,89077,Ulm,Baden-Württemberg,Germany,https://einstein-boulder.com,,,,true,false,false,,,,Europe,,2026-06-13,,,
+de-einstein-muenchen,einstein,einstein Boulderhalle München,Landsberger Straße 185,80687,München,Bayern,Germany,https://muenchen.einstein-boulder.com,,,,true,false,false,,,,Europe,,2026-06-13,,,
+de-einstein-duisburg,einstein,einstein Boulderhalle Duisburg,Essenberger Straße 85,47059,Duisburg,Nordrhein-Westfalen,Germany,https://einstein-boulder.com,,,,true,false,false,,,,Europe,,2026-06-13,,,
+de-einstein-recklinghausen,einstein,einstein Boulderhalle Recklinghausen,Walkmühlenweg 55,45661,Recklinghausen,Nordrhein-Westfalen,Germany,https://einstein-boulder.com,,,,true,false,false,,,,Europe,,2026-06-13,,,
+de-einstein-duesseldorf,einstein,einstein Boulderhalle Düsseldorf,Lierenfelder Straße 49,40231,Düsseldorf,Nordrhein-Westfalen,Germany,https://duesseldorf.einstein-boulder.com,,,,true,false,false,,,,Europe,,2026-06-13,,,
+de-einstein-koeln,einstein,einstein Boulderhalle Köln,Widdersdorfer Straße 205,50825,Köln,Nordrhein-Westfalen,Germany,https://einstein-boulder.com,,,,true,false,false,,,,Europe,,2026-06-13,,,
+de-kletterfabrik-koeln,Kletterfabrik,Kletterfabrik Köln,Oskar-Jäger-Straße,50825,Köln,Nordrhein-Westfalen,Germany,https://www.kletterfabrik.koeln,,50.9471305,6.9069543,true,true,true,,,,Europe,,2026-06-13,,,
+at-boulderbar-wien-wienerberg,boulderbar,boulderbar Wien Wienerberg,Gutheil-Schoder-Gasse 8,1100,Wien,Wien,Austria,https://boulderbar.net,@boulderbar,48.1612454,16.3356270,true,false,false,,,,Europe,,2026-06-13,,,
+at-boulderbar-wien-hannovergasse,boulderbar,boulderbar Wien Hannovergasse,Hannovergasse 21,1200,Wien,Wien,Austria,https://boulderbar.net,@boulderbar,48.2314920,16.3679058,true,false,false,,,,Europe,,2026-06-13,,,
+at-boulderbar-salzburg,boulderbar,boulderbar Salzburg,Richard-Kürth-Straße 9,5020,Salzburg,Salzburg,Austria,https://boulderbar.net/salzburg,@boulderbarsalzburg,47.8109426,13.0609246,true,false,false,,,,Europe,,2026-06-13,,,
+at-boulderbar-linz,boulderbar,boulderbar Linz,Dr. Hermann-Thurner-Straße 1,4060,Leonding,Oberösterreich,Austria,https://boulderbar.net,@boulderbar,48.2471984,14.2326435,true,false,false,,,,Europe,,2026-06-13,,,
+at-boulderbar-st-poelten,boulderbar,boulderbar St. Pölten,Herzogenburger Straße 69,3100,St. Pölten,Niederösterreich,Austria,https://boulderbar.net,@boulderbar,48.2164717,15.6364314,true,false,false,,,,Europe,,2026-06-13,,,
+fr-arkose-nation,Arkose,Arkose Nation,Rue des Grands Champs,75020,Paris,Île-de-France,France,https://arkose.com,@arkose.climbing,48.8513911,2.4022570,true,false,false,,,,Europe,,2026-06-13,,,
+fr-arkose-didot,Arkose,Arkose Didot,Boulevard Brune 101,75014,Paris,Île-de-France,France,https://arkose.com,@arkose.climbing,48.8261766,2.3150353,true,false,false,,,,Europe,,2026-06-13,,,
+fr-arkose-massy,Arkose,Arkose Massy,Rue Galvani,91300,Massy,Île-de-France,France,https://arkose.com,@arkose.climbing,48.7229675,2.2698716,true,false,false,,,,Europe,,2026-06-13,,,
+fr-arkose-montreuil,Arkose,Arkose Montreuil,Rue du Progrès 33,93100,Montreuil,Île-de-France,France,https://arkose.com,@arkose.climbing,48.8516526,2.4192138,true,false,false,,,,Europe,,2026-06-13,,,
+fr-arkose-pont-de-sevres,Arkose,Arkose Pont de Sèvres,,,Sèvres,Île-de-France,France,https://pontdesevres.arkose.com,@arkose.climbing,,,true,false,false,,,,Europe,,2026-06-13,,,
+fr-arkose-bordeaux,Arkose,Arkose Bordeaux,Cours du Médoc,33300,Bordeaux,Nouvelle-Aquitaine,France,https://arkose.com,@arkose.climbing,44.8629974,-0.5730148,true,false,false,,,,Europe,,2026-06-13,,,
+fr-arkose-lyon,Arkose,Arkose Lyon,,,Lyon,Auvergne-Rhône-Alpes,France,https://arkose.com,@arkose.climbing,,,true,false,false,,,,Europe,,2026-06-13,,,
+fr-arkose-villeurbanne,Arkose,Arkose Villeurbanne,,,Villeurbanne,Auvergne-Rhône-Alpes,France,https://arkose.com,@arkose.climbing,,,true,false,false,,,,Europe,,2026-06-13,,,
+fr-verticalart-pigalle,Vertical'Art,Vertical'Art Paris Pigalle,,,Paris,Île-de-France,France,https://www.vertical-art.fr,@va_climbing_pigalle,,,true,false,false,,,,Europe,,2026-06-13,,,
+fr-verticalart-chevaleret,Vertical'Art,Vertical'Art Paris Chevaleret,,,Paris,Île-de-France,France,https://www.vertical-art.fr,@verticalart_climbing,,,true,false,false,,,,Europe,,2026-06-13,,,
+fr-verticalart-sqy,Vertical'Art,Vertical'Art SQY,,,Montigny-le-Bretonneux,Île-de-France,France,https://montigny.vertical-art.fr,@verticalart_climbing,,,true,false,false,,,,Europe,,2026-06-13,,,
+fr-verticalart-rungis,Vertical'Art,Vertical'Art Rungis,Rue des Solets 113,94150,Rungis,Île-de-France,France,https://rungis.vertical-art.fr,@verticalart_climbing,48.7417418,2.3501200,true,false,false,,,,Europe,,2026-06-13,,,
+fr-verticalart-nantes,Vertical'Art,Vertical'Art Nantes,Rue d'Athènes,44305,Nantes,Pays de la Loire,France,https://nantes.vertical-art.fr,@va_climbing_nantes,47.2492613,-1.5024890,true,false,false,,,,Europe,,2026-06-13,,,
+fr-verticalart-lille,Vertical'Art,Vertical'Art Lille,Rue Paul Langevin 2bis,59260,Lille,Hauts-de-France,France,https://lille.vertical-art.fr,@va_climbing_lille,50.6170023,3.1020651,true,false,false,,,,Europe,,2026-06-13,,,
+fr-verticalart-toulon,Vertical'Art,Vertical'Art Toulon,Avenue Lavoisier,83160,Toulon,Provence-Alpes-Côte d'Azur,France,https://toulon.vertical-art.fr,@verticalart_climbing,43.1383924,5.9990624,true,false,false,,,,Europe,,2026-06-13,,,
+fr-verticalart-dijon,Vertical'Art,Vertical'Art Dijon,Rue Nicolas Cugnot 17,21300,Dijon,Bourgogne-Franche-Comté,France,https://www.vertical-art.fr,@va_climbing_dijon,47.2945893,5.0227355,true,false,false,,,,Europe,,2026-06-13,,,
+fr-verticalart-grenoble,Vertical'Art,Vertical'Art Grenoble,Rue des Glairons 41,38400,Grenoble,Auvergne-Rhône-Alpes,France,https://www.vertical-art.fr,@va_climbing_grenoble,45.1859145,5.7679530,true,false,false,,,,Europe,,2026-06-13,,,
+fr-verticalart-lemans,Vertical'Art,Vertical'Art Le Mans,Boulevard Estienne d'Orves 30,72100,Le Mans,Pays de la Loire,France,https://www.vertical-art.fr,@va_climbing_lemans,47.9846618,0.1834390,true,false,false,,,,Europe,,2026-06-13,,,
+fr-verticalart-brest,Vertical'Art,Vertical'Art Brest,Avenue Baron Lacrosse 8,29850,Gouesnou,Bretagne,France,https://www.vertical-art.fr,@va_climbing_brest,48.4272570,-4.4614839,true,false,false,,,,Europe,,2026-06-13,,,
+fr-climbup-paris-porte-italie,Climb Up,Climb Up Paris Porte d'Italie,Avenue de la Porte d'Italie 18,75013,Paris,Île-de-France,France,https://paris-porteditalie.climb-up.fr,@climb_up_paris,48.8167715,2.3595911,true,true,false,,,,Europe,,2026-06-13,,,
+fr-climbup-aubervilliers,Climb Up,Climb Up Aubervilliers,Avenue Victor Hugo 111,93300,Aubervilliers,Île-de-France,France,https://aubervilliers.climb-up.fr,@climb_up_officiel,48.9074505,2.3749419,true,true,true,,,,Europe,,2026-06-13,,,
+fr-climbup-saint-etienne,Climb Up,Climb Up Saint-Étienne,9 Esplanade Bénevent,42000,Saint-Étienne,Auvergne-Rhône-Alpes,France,https://www.climb-up.fr,@climb_up_saint_etienne,,,true,true,true,,,,Europe,,2026-06-13,,,
+fr-climbup-orleans-saran,Climb Up,Climb Up Orléans (Saran),Allée de l'Orée de la Forêt,45770,Saran,Centre-Val de Loire,France,https://climbup.fr,@climb_up_officiel,47.9590902,1.8930402,true,true,true,,,,Europe,,2026-06-13,,,
+fr-blockout-paris,Block'Out,Block'Out Paris,,,Saint-Ouen,Île-de-France,France,https://www.blockout.fr/paris,@blockoutparis,,,true,true,false,,,,Europe,,2026-06-13,,,
+fr-blockout-strasbourg,Block'Out,Block'Out Strasbourg,Rue Alexandre Dumas,67200,Strasbourg,Grand Est,France,https://www.blockout.fr,@blockoutstrasbourg,48.5905258,7.6993380,true,true,false,,,,Europe,,2026-06-13,,,
+fr-blockout-nantes,Block'Out,Block'Out Nantes,Chemin Montplaisir,44100,Nantes,Pays de la Loire,France,https://www.blockout.fr,@blockoutnantes,47.1988485,-1.6111101,true,true,false,,,,Europe,,2026-06-13,,,
+fr-blockout-vitrolles,Block'Out,Block'Out Vitrolles,Chemin de la Bastide Blanche Bâtiment F,13127,Vitrolles,Provence-Alpes-Côte d'Azur,France,https://www.blockout.fr,@blockoutvitrolles,43.4282878,5.2649186,true,true,false,,,,Europe,,2026-06-13,,,
+nl-monk-eindhoven,Monk,Monk Bouldergym Eindhoven,,,Eindhoven,Noord-Brabant,Netherlands,https://monk.nl,@monk_eindhoven,,,true,false,false,,,,Europe,,2026-06-13,,,
+nl-monk-amsterdam,Monk,Monk Bouldergym Amsterdam,Aambeeldstraat 26,1021 KB,Amsterdam,Noord-Holland,Netherlands,https://monk.nl/amsterdam,@monk_amsterdam,52.3834746,4.9292779,true,false,false,,,,Europe,,2026-06-13,,,
+nl-monk-rotterdam,Monk,Monk Bouldergym Rotterdam,Ceintuurbaan 183,3051 KC,Rotterdam,Zuid-Holland,Netherlands,https://monk.nl,,51.9416564,4.4734028,true,false,false,,,,Europe,,2026-06-13,,,
+nl-monk-hilversum,Monk,Monk Bouldergym Hilversum,,,Hilversum,Noord-Holland,Netherlands,https://monk.nl,,,,true,false,false,,,,Europe,,2026-06-13,,,
+nl-sterk-utrecht,Sterk,Boulderhal Sterk,Koningin Wilhelminalaan 4,3527 LD,Utrecht,Utrecht,Netherlands,https://www.boulderhalsterk.nl,@boulderhal_sterk,,,true,false,false,,,,Europe,,2026-06-13,,,
+nl-beest-bosenlommer,Beest,Beest Boulders,Willem de Zwijgerlaan 338B,,Amsterdam,Noord-Holland,Netherlands,https://beest.amsterdam,@beest.amsterdam,,,true,false,false,,,,Europe,,2026-06-13,,,
+nl-beest-hetlab,Beest,Beest Boulders Het Lab,Transformatorweg 32,,Amsterdam,Noord-Holland,Netherlands,https://beest.amsterdam,@beest.amsterdam,,,true,false,false,,,,Europe,,2026-06-13,,,
+nl-mountainnetwork-amsterdam,Mountain Network,Klimhal Amsterdam,,,Amsterdam,Noord-Holland,Netherlands,https://www.climbingnetwork.nl,,,,true,true,true,,,,Europe,,2026-06-13,,,
+be-bleau-gent,Bleau,Klimzaal Bleau,Campinglaan 2,,Gent,Oost-Vlaanderen,Belgium,https://www.bleau.be,@klimzaalbleau,,,true,true,true,,,,Europe,,2026-06-13,,,
+be-monk-hasselt,Monk,Monk Bouldergym Hasselt,Sint-Jozefsstraat 10,3500,Hasselt,Limburg,Belgium,https://monk.nl,,50.9284484,5.3393033,true,false,false,,,,Europe,,2026-06-13,,,
+be-klimzaalblok-antwerpen,Klimzaal Blok,Klimzaal Blok,IJskelderstraat 12/1,2660,Antwerpen,Antwerpen,Belgium,https://klimzaalblok.be,,,,true,false,false,,,,Europe,,2026-06-13,,,
+es-sharma-gava,Sharma Climbing,Sharma Climbing Gavà,Carrer Girona 25,8850,Gavà,Catalonia,Spain,https://sharmaclimbing.com,@sharmaclimbingbcngava,,,true,true,true,,,,Europe,,2026-06-13,,,
+es-sharma-barcelona,Sharma Climbing,Sharma Climbing Barcelona,Carrer del Marroc 206,08019,Barcelona,Catalonia,Spain,https://sharmaclimbing.com,@sharmaclimbing,41.4157253,2.2105633,true,true,true,,,,Europe,,2026-06-13,,,
+es-sharma-madrid,Sharma Climbing,Sharma Climbing Madrid,,,Madrid,Community of Madrid,Spain,https://sharmaclimbing.com,@sharmaclimbing,,,true,true,true,,,,Europe,,2026-06-13,,,
+es-sputnik-las-rozas,Sputnik Climbing,Sputnik Climbing Las Rozas,,,Las Rozas,Community of Madrid,Spain,https://sputnikclimbing.com,@sputnikclimbing,,,true,true,false,,,,Europe,,2026-06-13,,,
+es-sputnik-alcobendas,Sputnik Climbing,Sputnik Climbing Alcobendas,Calle de La Granja 100,28108,Alcobendas,Community of Madrid,Spain,https://sputnikclimbing.com,@sputnikclimbing,40.5359814,-3.6566542,true,true,false,,,,Europe,,2026-06-13,,,
+es-sputnik-chamberi,Sputnik Climbing,Sputnik Climbing Chamberí,Calle de Vallehermoso 87,28003,Madrid,Community of Madrid,Spain,https://sputnikclimbing.com,@sputnikclimbing,40.4394987,-3.7087577,true,true,false,,,,Europe,,2026-06-13,,,
+es-sputnik-legazpi,Sputnik Climbing,Sputnik Climbing Legazpi,,,Madrid,Community of Madrid,Spain,https://sputnikclimbing.com,@sputnikclimbing,,,true,true,false,,,,Europe,,2026-06-13,,,
+es-sputnik-guindalera,Sputnik Climbing,Sputnik Climbing Guindalera,,,Madrid,Community of Madrid,Spain,https://sputnikclimbing.com,@sputnikclimbing,,,true,true,false,,,,Europe,,2026-06-13,,,
+es-sputnik-berango,Sputnik Climbing,Sputnik Climbing Berango,Kesnea kalea 6,48640,Berango,Basque Country,Spain,https://sputnikclimbing.com,@sputnikclimbing,43.3694261,-2.9939369,true,true,false,,,,Europe,,2026-06-13,,,
+es-indoorwall-getafe,Indoorwall,Indoorwall Getafe,Calle Fundidores 27-29,28906,Getafe,Community of Madrid,Spain,https://www.indoorwall.com,@indoorwallmadrid,,,true,true,true,,,,Europe,,2026-06-13,,,
+es-indoorwall-torrejon,Indoorwall,Indoorwall Torrejón,Avenida del Sol 15,28850,Torrejón de Ardoz,Community of Madrid,Spain,https://www.indoorwall.com,@indoorwallmadrid,40.4505733,-3.4825715,true,true,true,,,,Europe,,2026-06-13,,,
+it-rockspot-milano,Rockspot,Rockspot Milano,Via Fantoli 15,20138,Milano,Lombardy,Italy,https://www.rockspot.it,@rockspot_milanoarrampicata,,,true,true,true,,,,Europe,,2026-06-13,,,
+it-rockspot-pero,Rockspot,Rockspot Pero,Via Gramsci 10,20016,Pero,Lombardy,Italy,https://www.rockspot.it,@rockspot_milanoarrampicata,,,true,true,true,,,,Europe,,2026-06-13,,,
+it-bside-torino,B-Side,B-Side Climbing Village,Via Amedeo Ravina 28,10153,Torino,Piedmont,Italy,https://www.bsideclimbing.it,,,,true,false,false,,,,Europe,,2026-06-13,,,
+se-klatterverket-gasverket,Klätterverket,Klätterverket Gasverket,Gasverksvägen 15,,Stockholm,Stockholm,Sweden,https://klatterverket.se,@klatterverket_gasverket,,,true,true,true,,,,Europe,,2026-06-13,,,
+se-klatterverket-sickla,Klätterverket,Klätterverket Sickla,Marcusplatsen 17,131 34,Nacka,Stockholm,Sweden,https://klatterverket.se,@klatterverket_sickla,59.3055679,18.1211641,true,true,true,,,,Europe,,2026-06-13,,,
+fi-boulderkeskus-pasila,Boulderkeskus,Boulderkeskus Pasila,Veturitallinkuja 4,520,Helsinki,Uusimaa,Finland,https://www.boulderkeskus.com,@boulderkeskus,,,true,false,false,,,,Europe,,2026-06-13,,,
+fi-boulderkeskus-konala,Boulderkeskus,Boulderkeskus Konala,Ruosilantie 1,390,Helsinki,Uusimaa,Finland,https://www.boulderkeskus.com,@boulderkeskus,,,true,false,false,,,,Europe,,2026-06-13,,,
+fi-boulderkeskus-herttoniemi,Boulderkeskus,Boulderkeskus Herttoniemi,Mekaanikonkatu 15A,880,Helsinki,Uusimaa,Finland,https://www.boulderkeskus.com,@boulderkeskus,,,true,false,false,,,,Europe,,2026-06-13,,,
+fi-boulderkeskus-espoo,Boulderkeskus,Boulderkeskus Espoo,Niittyrinne 2B,2270,Espoo,Uusimaa,Finland,https://www.boulderkeskus.com,@boulderkeskus,,,true,false,false,,,,Europe,,2026-06-13,,,
+fi-boulderkeskus-lauttasaari,Boulderkeskus,Boulderkeskus Lauttasaari (Kino),Lauttasaarentie 10,200,Helsinki,Uusimaa,Finland,https://www.boulderkeskus.com,@boulderkeskus,,,true,false,false,,,,Europe,,2026-06-13,,,
+cz-smichoff-praha,SmíchOFF,Lezecké centrum SmíchOFF,Křížová 6,15000,Praha,Prague,Czech Republic,https://www.lezeckecentrum.cz,,,,true,true,true,,,,Europe,,2026-06-13,,,
+ie-gravity-dublin,Gravity,Gravity Climbing Centre Dublin,Goldenbridge Industrial Estate,D08 HF68,Dublin,Leinster,Ireland,https://www.gravityclimbing.ie,@gravityclimbingcentre,53.3358350,-6.3236231,true,false,false,,,,Europe,,2026-06-13,,,
+dk-aalborg-klatreklub,Aalborg Klatreklub,Aalborg Klatreklub,Annebergvej 55,9000,Aalborg,Nordjylland,Denmark,https://www.aalborgklatreklub.dk,@aalborg_klatreklub,,,true,true,true,,,,Europe,,2026-06-13,,,
+dk-norrebro-klatreklub,Nørrebro Klatreklub,Nørrebro Klatreklub,,,København N,Hovedstaden,Denmark,https://nkk.dk,,,,true,,,,,,Europe,,,,,
+dk-obk-odense,OBK,OBK - Odense Boulderklub,,,Odense C,Syddanmark,Denmark,https://www.odenseboulder.dk,,,,true,,,,,,Europe,,,,,
+dk-gak-hillerod,GaK Hillerød Klatreklub,GaK Hillerød Klatreklub,Hillerødsholms Allé 2-4,3400,Hillerød,Hovedstaden,Denmark,https://www.gak.dk,@gadevangklatring,,,true,true,true,,,,Europe,,2026-06-13,,,
+dk-holstebloc,Holstebloc,Holstebloc,Struervej 32,7500,Holstebro,Midtjylland,Denmark,https://slagteriet.dk/aktorer/holstebloc,,,,true,false,false,,,,Europe,,2026-06-13,,,
+dk-kolding-klatreklub,Kolding Klatreklub,Kolding Klatreklub,Dalbygade 40U,6000,Kolding,Syddanmark,Denmark,https://koldingklatreklub.dk,,,,true,true,true,,,,Europe,,2026-06-13,,,
+dk-dtu-climbing,DTU Climbing,DTU Climbing,Anker Engelunds Vej 1B,2800,Kongens Lyngby,Hovedstaden,Denmark,https://dtuclimbing.dk,,,,true,false,false,,,,Europe,,2026-06-13,,,
+dk-boulder-hulen-esbjerg,Boulder Hulen,Boulder Hulen,,,Esbjerg,Syddanmark,Denmark,https://boulderhulen.dk,,,,true,false,false,,,,Europe,,,,,
+se-klattercentret-telefonplan,Klättercentret,Klättercentret Telefonplan,Tellusgården 24,126 37,Stockholm,Stockholm,Sweden,https://www.klattercentret.se,@klattercentret_telefonplan,,,true,true,true,,,,Europe,,2026-06-13,,,
+se-klattercentret-akalla,Klättercentret,Klättercentret Akalla,Vandagatan 3,164 74,Stockholm,Stockholm,Sweden,https://www.klattercentret.se,@klattercentret_akalla,59.4204622,17.9153109,true,true,true,,,,Europe,,2026-06-13,,,
+se-klattercentret-solna,Klättercentret,Klättercentret Solna,Banvaktsvägen 20,,Solna,Stockholm,Sweden,https://www.klattercentret.se,@klattercentret,,,true,true,true,,,,Europe,,2026-06-13,,,
+se-klattercentret-goteborg,Klättercentret,Klättercentret Göteborg,Stora Åvägen 1,436 34,Göteborg,Västra Götaland,Sweden,https://www.klattercentret.se,@klattercentret,57.6407764,11.9430442,true,true,true,,,,Europe,,2026-06-13,,,
+se-klattercentret-malmo,Klättercentret,Klättercentret Malmö,Kopparbergsgatan 8,214 44,Malmö,Skåne,Sweden,https://www.klattercentret.se,@klattercentret,55.5873804,13.0250921,true,true,true,,,,Europe,,2026-06-13,,,
+se-klattercentret-uppsala,Klättercentret,Klättercentret Uppsala,,,Uppsala,Uppsala,Sweden,https://www.klattercentret.se,@klattercentret,,,true,true,true,,,,Europe,,2026-06-13,,,
+se-klattercentret-vasteras,Klättercentret,Klättercentret Västerås,Stenbygatan 3a,721 36,Västerås,Västmanland,Sweden,https://www.klattercentret.se,@klattercentret,59.6368306,16.5671504,true,true,true,,,,Europe,,2026-06-13,,,
+se-klattercentret-helsingborg,Klättercentret,Klättercentret Helsingborg,,,Helsingborg,Skåne,Sweden,https://www.klattercentret.se,@klattercentret,,,true,true,true,,,,Europe,,2026-06-13,,,
+se-klatterlabbet-goteborg,Klätterlabbet,Klätterlabbet Centrum (Fysiken),Elektrovägen 1,412 58,Göteborg,Västra Götaland,Sweden,https://fysiken.nu/sv/klatterlabbet/,@klatterlabbet,,,true,true,true,,,,Europe,,2026-06-13,,,
+se-klatterlabbet-partille,Klätterlabbet,Klätterlabbet Partille (Fysiken),,,Partille,Västra Götaland,Sweden,https://fysiken.nu/sv/klatterlabbet/,@klatterlabbet,,,true,true,true,,,,Europe,,2026-06-13,,,
+se-boulderingsthlm,Bouldering Sthlm,Bouldering Sthlm,Slakthusgatan 26,,Stockholm,Stockholm,Sweden,https://boulderingstockholm.se,@boulderingsthlm,,,true,false,false,,,,Europe,,2026-06-13,,,
+no-klatreverket-torshov,Klatreverket,Klatreverket Torshov,Myrens verksted 3K,0473,Oslo,Oslo,Norway,https://klatreverket.no,@klatreverket_torshov,,,true,true,true,,,,Europe,,2026-06-13,,,
+no-klatreverket-lokka,Klatreverket,Klatreverket Løkka,Thorvald Meyers gate 9,0555,Oslo,Oslo,Norway,https://klatreverket.no,@klatreverket_lokka,,,true,false,false,true,true,,Europe,,2026-06-13,,,
+no-oslo-klatresenter,Oslo Klatresenter,Oslo Klatresenter,Olaf Helsets vei 5,0694,Oslo,Oslo,Norway,https://www.osloklatresenter.no,@osloklatresenter,,,true,true,true,,,,Europe,,2026-06-13,,,
+no-vulkan-klatresenter,Vulkan Klatresenter,Vulkan Klatresenter,Vulkan,0175,Oslo,Oslo,Norway,https://www.kolsaas.no,@kolsaskk,59.9229349,10.7521397,true,true,true,,,,Europe,,2026-06-13,,,
+de-ostbloc-berlin,Ostbloc,Ostbloc,Hauptstraße 13,10317,Berlin,Berlin,Germany,https://www.ostbloc.de,@ostbloc,,,true,false,false,,,,Europe,,2026-06-13,,,
+de-bertablock-berlin,Berta Block,Berta Block,Mühlenstraße 62,13187,Berlin,Berlin,Germany,https://www.bertablock.de,@bertablockboulderhalle,52.5638900,13.4103585,true,false,false,,,,Europe,,2026-06-13,,,
+de-cafekraft-nuernberg,Café Kraft,Café Kraft Nürnberg,Gebertstraße 9,90411,Nürnberg,Bayern,Germany,https://www.cafekraft.de,@cafekraft_nuernberg,,,true,false,false,,,,Europe,,2026-06-13,,,
+fr-altissimo-toulouse-montaudran,Altissimo,Altissimo Toulouse Montaudran,Rue Jean Rodier 5,31400,Toulouse,Occitanie,France,https://toulouse-montaudran.altissimo.fr,@altissimoescalade,43.5668198,1.4874717,true,true,true,,,,Europe,,2026-06-13,,,
+fr-altissimo-toulouse-portet,Altissimo,Altissimo Toulouse Portet,,,Portet-sur-Garonne,Occitanie,France,https://toulouse-portet.altissimo.fr,@altissimoportet,,,true,true,true,,,,Europe,,2026-06-13,,,
+fr-altissimo-toulouse-saint-martin,Altissimo,Altissimo Toulouse Saint-Martin,Rue Marie-Louise Dissard,31300,Toulouse,Occitanie,France,https://toulouse-saint-martin.altissimo.fr,@altissimoescalade,43.6019656,1.3672417,true,true,true,,,,Europe,,2026-06-13,,,
+fr-altissimo-albi,Altissimo,Altissimo Albi,Rue Claude Bourgelat 2,81000,Albi,Occitanie,France,https://albi.altissimo.fr,@altissimoescalade,43.9007977,2.1442254,true,true,true,,,,Europe,,2026-06-13,,,
+fr-altissimo-montpellier-odysseum,Altissimo,Altissimo Montpellier Odysseum,Allée Ulysse,34965,Montpellier,Occitanie,France,https://www.altissimo.fr,@altissimoescalade,43.6034184,3.9182492,true,true,true,,,,Europe,,2026-06-13,,,
+fr-altissimo-montpellier-grabels,Altissimo,Altissimo Montpellier Grabels,Rue de la Treille 1,34790,Grabels,Occitanie,France,https://www.altissimo.fr,@altissimoescalade,43.6474685,3.8015590,true,true,true,,,,Europe,,2026-06-13,,,
+fr-altissimo-metz,Altissimo,Altissimo Metz,Rue du Haut Gazon 4,57160,Metz,Grand Est,France,https://www.altissimo.fr,@altissimoescalade,49.0825922,6.1088157,true,true,true,,,,Europe,,2026-06-13,,,
+nl-neoliet-utrecht,Neoliet,Neoliet Utrecht,Componistenlaan 6,3451 SX,Utrecht,Utrecht,Netherlands,https://www.neoliet.nl/en/utrecht/,,52.1128319,5.0314177,true,true,true,,,,Europe,,2026-06-13,,,
+nl-neoliet-tilburg,Neoliet,Neoliet Tilburg,Sportpark Goirleseweg,,Tilburg,Noord-Brabant,Netherlands,https://www.neoliet.nl/en/tilburg/,,,,true,true,true,,,,Europe,,2026-06-13,,,
+nl-neoliet-eindhoven-zuid,Neoliet,Neoliet Eindhoven-Zuid,Genneper Parken,,Eindhoven,Noord-Brabant,Netherlands,https://www.neoliet.nl,,,,true,true,true,,,,Europe,,2026-06-13,,,
+fr-murmur-pantin,MurMur,MurMur Pantin,55 rue Cartier Bresson,93500,Pantin,Île-de-France,France,https://www.murmur.fr,@murmurescalade,,,true,true,true,,,,Europe,,2026-06-13,,,
+fr-murmur-issy,MurMur,MurMur Issy-les-Moulineaux,1-6 boulevard Garibaldi,92130,Issy-les-Moulineaux,Île-de-France,France,https://www.murmur.fr,@murmurescalade,,,true,true,true,,,,Europe,,2026-06-13,,,
+fr-hardbloc-alfortville,Hardbloc,Hardbloc,Rue Parmentier 11,94140,Alfortville,Île-de-France,France,,@hardbloc,48.8074484,2.4121670,true,false,false,,,,Europe,,2026-06-13,,,
+fr-antrebloc-grenoble,Antrebloc,Antrebloc,,,Grenoble,Auvergne-Rhône-Alpes,France,https://antrebloc.com,@antrebloc,,,true,false,false,,,,Europe,,2026-06-13,,,
+de-derkegel-berlin,Der Kegel,Der Kegel,Revaler Straße 99,10245,Berlin,Berlin,Germany,https://derkegel.de,@derkegel,52.5071646,13.4543918,true,true,false,,,,Europe,,2026-06-13,,,
+de-boulderklub-kreuzberg,Boulderklub Kreuzberg,Boulderklub Kreuzberg,Ohlauer Straße 38,10999,Berlin,Berlin,Germany,,@boulderklub_kreuzberg,52.4951304,13.4286748,true,false,false,,,,Europe,,2026-06-13,,,
+nl-bjoeks-groningen,Bjoeks,Klimcentrum Bjoeks,Bieskemaar 3,9735 AE,Groningen,Groningen,Netherlands,,@bjoeks,,,true,true,true,,,,Europe,,2026-06-13,,,
+nl-cube-enschede,Cube Bouldergym,Cube Bouldergym,Hoge Bothofstraat 45,7511 ZA,Enschede,Overijssel,Netherlands,https://cubebouldergym.nl,@cubebouldergym,,,true,false,false,,,,Europe,,2026-06-13,,,
+nl-grip-nijmegen,GripBoulderhal,GripBoulderhal,,,Nijmegen,Gelderland,Netherlands,,@gripboulderhal,,,true,false,false,,,,Europe,,2026-06-13,,,
+nl-gropo-groningen,Gropo Bouldergym,Gropo Bouldergym,,,Groningen,Groningen,Netherlands,,@gropobouldergym,,,true,false,false,,,,Europe,,2026-06-13,,,
+fr-climbingdistrict-batignolles,Climbing District,Climbing District Batignolles,Rue Mstislav Rostropovitch 69,75017,Paris,Île-de-France,France,https://climbingdistrict.com,,48.8911894,2.3105121,true,false,false,,,,Europe,,2026-06-13,,,
+fr-climbingdistrict-saint-lazare,Climbing District,Climbing District Saint-Lazare,Rue de Saint-Pétersbourg 26 bis,75008,Paris,Île-de-France,France,https://climbingdistrict.com,,48.8818117,2.3261635,true,false,false,,,,Europe,,2026-06-13,,,
+de-element-muenchen,Element Boulders,Element Boulders München,Zielstattstraße 23,81379,München,Bayern,Germany,,@element.muenchen,48.1022007,11.5325848,true,false,false,,,,Europe,,2026-06-13,,,
+de-element-essen,Element Boulders,Element Boulders Essen,Haedenkampstraße 73,45143,Essen,Nordrhein-Westfalen,Germany,,@element.essen,51.4552924,6.9853767,true,false,false,,,,Europe,,2026-06-13,,,
+de-beta-hannover,Beta Boulderhalle,Beta Boulderhalle Hannover,Gertrud-Knebusch-Straße 15,30167,Hannover,Niedersachsen,Germany,,@betaboulderhallehannover,52.3850954,9.7311956,true,false,false,,,,Europe,,2026-06-13,,,
+de-kraftraum-bocholt,Kraftraum,Kraftraum Boulderhalle,,,Bocholt,Nordrhein-Westfalen,Germany,,@kraftraumbocholt,,,true,false,false,,,,Europe,,2026-06-13,,,
+nl-sterk-spoor-utrecht,Sterk,Boulderhal Sterk Spoor,Schaverijstraat 52,3534 AS,Utrecht,Utrecht,Netherlands,https://www.boulderhalsterk.nl,@boulderhal_sterk,52.1051887,5.0827563,true,false,false,,,,Europe,,2026-06-13,,,
+nl-klimmuur-utrecht,Klimmuur,Klimmuur Utrecht,Vlampijpstraat 79,,Utrecht,Utrecht,Netherlands,https://www.deklimmuur.nl,,,,true,true,true,,,,Europe,,,,,
+se-karbin-stockholm,Karbin,Karbin Klätterhall,,,Stockholm,Stockholm,Sweden,https://karbin.com,@karbin_klatterhall,,,true,true,true,,,,Europe,,2026-06-13,,,
+no-bergen-klatreklubb,Bergen Klatreklubb,Bergen Klatreklubb (Vestveggen),,,Bergen,Vestland,Norway,,@bergenklatreklubb,,,true,true,true,,,,Europe,,2026-06-13,,,
+fr-mroc-villeurbanne,MRoc,MRoc Villeurbanne,Rue Alexis Perroncel,69100,Villeurbanne,Auvergne-Rhône-Alpes,France,https://www.mroc.fr,@mroc.blocbistro,45.7749348,4.8759137,true,false,false,,,,Europe,,2026-06-13,,,
+fr-mroc-laennec,MRoc,MRoc Laennec,Rue Auguste Pinton,69008,Lyon,Auvergne-Rhône-Alpes,France,https://www.mroc.fr,@mroc.blocbistro,45.7374655,4.8804561,true,false,false,,,,Europe,,2026-06-13,,,
+fr-mroc-part-dieu,MRoc,MRoc Part-Dieu,Rue du Pensionnat 86,69003,Lyon,Auvergne-Rhône-Alpes,France,https://www.mroc.fr,@mroc.blocbistro,45.7546750,4.8584832,true,false,false,,,,Europe,,2026-06-13,,,
+fr-espacevertical-grenoble,Espace Vertical,Espace Vertical Grenoble,Rue Victor Lastella 22,38000,Grenoble,Auvergne-Rhône-Alpes,France,,@espacevertical,45.1846475,5.7036481,true,true,true,,,,Europe,,2026-06-13,,,
+fr-espacevertical-smh,Espace Vertical,Espace Vertical Saint-Martin-d'Hères,Rue Marceau Leyssieux 12,38400,Saint-Martin-d'Hères,Auvergne-Rhône-Alpes,France,,@espacevertical,45.1848059,5.7565397,true,true,true,,,,Europe,,2026-06-13,,,
+de-bouldergarten-berlin,Bouldergarten,Bouldergarten,Thiemannstraße - Tor 4,12059,Berlin,Berlin,Germany,,@bouldergarten,52.4793487,13.4513117,true,true,false,,,,Europe,,2026-06-13,,,
+de-magicmountain-berlin,Magic Mountain,Magic Mountain Berlin,Böttgerstraße 20,13357,Berlin,Berlin,Germany,https://www.magicmountain.de,@magicmountainberlin,,,true,true,true,,,,Europe,,2026-06-13,,,
+se-klatterdomen-goteborg,Klätterdomen,Klätterdomen,Övre Kaserngården 2,415 27,Göteborg,Västra Götaland,Sweden,https://klatterdomen.se,@klatterdomen,,,true,true,true,,,,Europe,,2026-06-13,,,
+se-backaboulder-goteborg,Backa Boulder,Backa Boulder,Herkulesgatan 1,417 03,Göteborg,Västra Götaland,Sweden,,@backaboulder,57.7197504,11.9510503,true,false,false,,,,Europe,,2026-06-13,,,
+no-oslo-mikrobuldreri,Oslo Mikrobuldreri,Oslo Mikrobuldreri,,,Oslo,Oslo,Norway,,@oslomikrobuldreri,,,true,false,false,,,,Europe,,2026-06-13,,,
+no-trondheim-klatresenter,Trondheim Klatresenter,Trondheim Klatresenter,Thonning Owesens gate,,Trondheim,Trøndelag,Norway,,,,,true,true,true,,,,Europe,,,,,
+no-sorlandet-klatresenter,Sørlandet Klatresenter,Sørlandet Klatresenter,Odderøyveien,4610,Kristiansand,Agder,Norway,,@sorlandetklatresenter,58.1376395,7.9998888,true,true,true,,,,Europe,,2026-06-13,,,
+fr-blocsession-marseille-centre,Bloc Session,Bloc Session Marseille Centre,Chemin Saint-Jean-du-Désert 164,13005,Marseille,Provence-Alpes-Côte d'Azur,France,https://www.blocsession.com/salle-escalade/marseille-centre/,,43.2933688,5.4120477,true,false,false,,,,Europe,,2026-06-13,,,
+fr-blocsession-marseille-sud,Bloc Session,Bloc Session Marseille Sud,,,Marseille,Provence-Alpes-Côte d'Azur,France,https://www.blocsession.com/salle-escalade/marseille-sud/,,,,true,false,false,,,,Europe,,2026-06-13,,,
+de-boulderhaus-darmstadt,Boulderhaus,Boulderhaus Darmstadt,Landwehrstraße 79,64293,Darmstadt,Hessen,Germany,,@boulderhaus_darmstadt,49.8799322,8.6362005,true,false,false,,,,Europe,,2026-06-13,,,
+de-rockerei-stuttgart,Rockerei,Rockerei (DAV Schwaben),Stammheimer Straße 41,70435,Stuttgart,Baden-Württemberg,Germany,,@rockerei,48.8345647,9.1634091,true,true,true,,,,Europe,,2026-06-13,,,
+de-bouldercity-dresden,Bouldercity Dresden,Bouldercity Dresden,Bischofsweg 32,01099,Dresden,Sachsen,Germany,,@bouldercitydresden,51.0696095,13.7532088,true,false,false,,,,Europe,,2026-06-13,,,
+de-cube-wetzlar,Cube,Cube Kletterzentrum Wetzlar,Sportparkstraße 3a,35578,Wetzlar,Hessen,Germany,,@cubekletterzentrum,50.5537468,8.5255202,true,true,true,,,,Europe,,2026-06-13,,,
+de-studiobloc-darmstadt,Studio Bloc,Studio Bloc Darmstadt,Gottlieb-Daimler-Straße 6,64319,Pfungstadt,Hessen,Germany,https://darmstadt.studiobloc.de,@studio_bloc_darmstadt,49.8155724,8.6108752,true,false,false,,,,Europe,,2026-06-13,,,
+nl-mountainnetwork-nieuwegein,Mountain Network,Mountain Network Nieuwegein,Blokhoeve 12,3438 LC,Nieuwegein,Utrecht,Netherlands,https://www.climbingnetwork.nl,,52.0465338,5.0917806,true,true,true,,,,Europe,,2026-06-13,,,
+nl-beest-rotterdam,Beest,Beest Boulders Rotterdam,Benthemplein 10,3032 CC,Rotterdam,Zuid-Holland,Netherlands,,,51.9274849,4.4761673,true,false,false,,,,Europe,,,,,
+se-malmo-klatterklubb,Malmö Klätterklubb,Malmö Klätterklubb,Eric Perssons väg 1E,217 62,Malmö,Skåne,Sweden,https://malmoklatterklubb.se,,55.5851468,12.9912602,true,true,true,,,,Europe,,2026-06-13,,,
+de-blochuette-augsburg,Bloc-Hütte,Bloc-Hütte Augsburg,,,Augsburg,Bayern,Germany,https://bloc-huette.de,@blochuetteaugsburg,,,true,false,false,,,,Europe,,2026-06-13,,,
+de-flashh-hamburg,FLASHH,FLASHH Boulderspot,,,Hamburg,Hamburg,Germany,,@flashh_boulderspot,,,true,false,false,,,,Europe,,2026-06-13,,,
+de-dav-augsburg,DAV Kletterzentrum,DAV Kletterzentrum Augsburg,,,Augsburg,Bayern,Germany,,@dav_kletterzentrum_augsburg,,,true,true,true,,,,Europe,,2026-06-13,,,
+fr-isatix-mondeville,Isatix,Isatix Mondeville,,,Mondeville,Normandie,France,https://www.isatix.com,,,,true,true,true,,,,Europe,,2026-06-13,,,
+nl-energiehaven-utrecht,Energiehaven,Boulderhal Energiehaven,,,Utrecht,Utrecht,Netherlands,https://www.boulderhalenergiehaven.nl,,,,true,false,false,,true,,Europe,,2026-06-13,,,
+nl-luchthaven-amsterdam,Luchthaven,Boulderhal Luchthaven,,,Amsterdam,Noord-Holland,Netherlands,https://www.boulderhalluchthaven.nl,,,,true,false,false,,,,Europe,,2026-06-13,,,
+nl-klimmuur-amsterdam,Klimmuur,De Klimmuur Centraal Amsterdam,,,Amsterdam,Noord-Holland,Netherlands,https://www.deklimmuur.nl,,,,true,true,true,,,,Europe,,2026-06-13,,,
+se-crux-uppsala,Crux,Crux Uppsala,Seminariegatan 33,752 28,Uppsala,Uppsala,Sweden,https://www.crux.se,,,,true,true,true,,,,Europe,,2026-06-13,,,
