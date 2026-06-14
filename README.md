@@ -13,6 +13,7 @@ The goal of this project is to provide a freely reusable, structured dataset con
 * GPS coordinates
 * Available climbing disciplines and training boards
 * The date each record was last verified against a primary source
+* Lifecycle status (open / closed) with a link to a relocated center's current record
 
 ## Dataset Format
 
@@ -47,6 +48,9 @@ Current schema:
 | `continent`      | Continent name.                                            |
 | `grading_type`   | Grading system the center uses. One of `color`, `font`, `v`, `none`. Blank = not yet recorded. |
 | `last_verified`  | Date (`YYYY-MM-DD`) the record was last checked against a primary source. Blank = not yet verified. |
+| `status`         | Lifecycle state. Blank = active/open. `closed` = no longer operating at this location. |
+| `status_date`    | Date (`YYYY-MM-DD`) the status took effect (e.g. when the center closed). Blank while active. |
+| `successor_id`   | If the center relocated, the `id` of the row holding the current info. Blank if it simply closed or never moved. |
 
 > **Column order is part of the contract.** Consumers should read columns **by
 > header name**, not by position. New columns are always **appended at the end**
@@ -81,6 +85,37 @@ Current schema:
 
 Values are lowercase and fixed. Do not introduce other values; if a center
 does not fit, use `none` and add a note in the pull request.
+
+## Lifecycle: closures and moves
+
+Centers close and relocate. The dataset records this instead of deleting rows, so
+that historical coordinates and addresses stay meaningful (a geocode that was
+correct at one time still points somewhere; the live info is found via the link).
+
+Two rules:
+
+1. **IDs are permanent and opaque.** Never rewrite a row's location when a center
+   moves, and never encode the street address in the `id` (addresses move, ids
+   should not). The `id` identifies a record, not a place forever.
+2. **Append, don't overwrite, on change.** Record the change in `status` /
+   `status_date` / `successor_id` rather than editing the facts away.
+
+How each case is recorded:
+
+- **Open & current:** `status` blank, `status_date` blank, `successor_id` blank.
+- **Closed for good:** keep the row, set `status = closed` and `status_date` to the
+  closing date. `successor_id` stays blank. Consumers filtering for live centers
+  skip `status = closed`; anyone studying history still sees it existed, with its
+  last-known address and coordinates intact.
+- **Relocated:** mark the old row `status = closed`, `status_date` = the move date,
+  and `successor_id` = the `id` of a **new** row that carries the new address and
+  coordinates (and `status` blank). Disambiguate the new id with a suffix, e.g.
+  `nl-sterk-utrecht` -> `nl-sterk-utrecht-2` (or an opening-year tag). The old
+  row's geocode is thereby pinned to "valid until `status_date`."
+
+`last_verified` complements this: even with no status change, a row that is still
+`active` but whose `last_verified` is old reads as "last known good" — a stale
+geocode dates itself.
 
 ## Versioning
 
