@@ -5948,11 +5948,11 @@
       "status": null,
       "status_date": null,
       "successor_id": null,
-      "facility_type": null,
-      "day_pass": null,
-      "chain_gym_equivalent": null,
-      "day_pass_price": null,
-      "source": null
+      "facility_type": "commercial_gym",
+      "day_pass": "true",
+      "chain_gym_equivalent": "true",
+      "day_pass_price": "10 EUR",
+      "source": "https://www.yumping.com/en/climbing-walls/monkey-island-roma--e19746790"
     },
     {
       "id": "it-movimentoverticale-roma",
@@ -6010,11 +6010,11 @@
       "status": null,
       "status_date": null,
       "successor_id": null,
-      "facility_type": null,
-      "day_pass": null,
-      "chain_gym_equivalent": null,
-      "day_pass_price": null,
-      "source": null
+      "facility_type": "commercial_gym",
+      "day_pass": "true",
+      "chain_gym_equivalent": "true",
+      "day_pass_price": "10 EUR",
+      "source": "https://www.planetmountain.com/it/palestre-di-arrampicata/rock-dreams-lanciani-climbing-roma.html"
     },
     {
       "id": "it-rockit-roma",
@@ -6103,11 +6103,11 @@
       "status": null,
       "status_date": null,
       "successor_id": null,
-      "facility_type": null,
-      "day_pass": null,
-      "chain_gym_equivalent": null,
+      "facility_type": "club_wall",
+      "day_pass": "unverified",
+      "chain_gym_equivalent": "unverified",
       "day_pass_price": null,
-      "source": null
+      "source": "https://www.cairoma.it/?page_id=28"
     },
     {
       "id": "it-newrock-sanzeno",
