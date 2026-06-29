@@ -14,6 +14,7 @@ The goal of this project is to provide a freely reusable, structured dataset con
 * Available climbing disciplines and training boards
 * The date each record was last verified against a primary source
 * Lifecycle status (open / closed) with a link to a relocated center's current record
+* Whether the public can walk in and buy a day pass (chain-gym equivalence), with the day-pass price and a source
 
 ## Dataset Format
 
@@ -51,6 +52,11 @@ Current schema:
 | `status`         | Lifecycle state. Blank = active/open. `closed` = no longer operating at this location. |
 | `status_date`    | Date (`YYYY-MM-DD`) the status took effect (e.g. when the center closed). Blank while active. |
 | `successor_id`   | If the center relocated, the `id` of the row holding the current info. Blank if it simply closed or never moved. |
+| `facility_type`  | How the public can access the wall. One of `commercial_gym`, `club_wall`, `community_wall`, `leisure_centre_wall`, `outdoor_wall`, `training_space`. Blank = not yet assessed. See [Chain-gym equivalence](#chain-gym-equivalence). |
+| `day_pass`       | Whether a member of the public can buy a day entry / drop-in. `true` / `false` = confirmed, `unverified` = assessed but not confirmable, blank = not assessed. |
+| `chain_gym_equivalent` | `true` if the public can walk in and buy a day entry at a dedicated climbing facility (a nominal annual membership is allowed). Same `true` / `false` / `unverified` / blank convention as `day_pass`. |
+| `day_pass_price` | Day-entry price with the currency inline (e.g. `145 DKK`, `10 EUR`, ranges like `129-149 DKK`). Blank = not recorded. |
+| `source`         | URL the equivalence assessment is based on (prefer the center's official price/booking page). Blank = not assessed. |
 
 > **Column order is part of the contract.** Consumers should read columns **by
 > header name**, not by position. New columns are always **appended at the end**
@@ -72,6 +78,11 @@ Current schema:
   center's own official website** as the source; other reliable public sources
   are acceptable when an official site is unavailable. Leave blank if the record
   has not been verified.
+* `day_pass` and `chain_gym_equivalent` are **tri-state, not plain booleans**: in
+  addition to `true` / `false` they may be `unverified` (assessed but day entry
+  could not be confirmed — do not guess), or blank (not assessed). `day_pass_price`
+  keeps the currency inline (e.g. `10 EUR`), and always set `source` when you
+  assess a center. See [Chain-gym equivalence](#chain-gym-equivalence).
 
 ## `grading_type` values
 
@@ -117,6 +128,45 @@ How each case is recorded:
 `active` but whose `last_verified` is old reads as "last known good" — a stale
 geocode dates itself.
 
+## Chain-gym equivalence
+
+Not every wall in the dataset is a gym you can simply show up to and pay for. The
+`facility_type`, `day_pass`, `chain_gym_equivalent`, `day_pass_price` and `source`
+columns capture one externally checkable question:
+
+> **Can a member of the public walk in and buy a day entry (drop-in / *ingresso
+> giornaliero* / *dagsbillet*) during regular staffed hours, at a dedicated climbing
+> facility?**
+
+If yes, `chain_gym_equivalent = true`. A cheap **annual membership** that anyone can
+buy on the spot (common in Italy, where most gyms are legally an ASD/SSD) does **not**
+disqualify a center. What fails the test: members-only clubs, course-only
+associations, walls inside private sports *circoli*, parish or municipal multi-sport
+centres, alpine-club (CAI / DAV-style) walls, and self-managed community walls.
+
+**`facility_type` values** (lowercase, fixed):
+
+- `commercial_gym` — public, walk-in, day-pass climbing gym (the chain-gym equivalent).
+- `club_wall` — members / association access; course- or membership-gated.
+- `community_wall` — self-managed or social space.
+- `leisure_centre_wall` — climbing inside a multi-sport or municipal centre.
+- `outdoor_wall` — open-air public structure.
+- `training_space` — small board / training room, not a general-access gym.
+- *(blank)* — not yet assessed.
+
+**Tri-state, not boolean.** `day_pass` and `chain_gym_equivalent` are `true` / `false`
+when confirmed, `unverified` when a center was assessed but day entry could not be
+confirmed from available sources (deliberately **not guessed**), and blank when the
+center has not been assessed at all. This differs from the discipline booleans
+(`bouldering` etc.), which are only `true` / `false` / blank.
+
+**`day_pass_price`** stores the drop-in price with its currency inline (`145 DKK`,
+`10 EUR`; ranges like `129-149 DKK` are fine). **`source`** is the URL the assessment
+rests on — prefer the center's own price or booking page.
+
+This layer is an **analytic classification**, not a raw fact like an address, so every
+assessment should cite a `source`. Coverage is partial and grows region by region.
+
 ## Versioning
 
 Releases are tracked in [`CHANGELOG.md`](CHANGELOG.md) and tagged in git using
@@ -151,6 +201,8 @@ Contributions are welcome! You can help by:
 * Adding GPS coordinates.
 * Correcting facility information (lead, bouldering, MoonBoard, etc.).
 * Refreshing `last_verified` after re-checking a center against its official site.
+* Assessing chain-gym equivalence (`facility_type`, `day_pass`,
+  `chain_gym_equivalent`, `day_pass_price`) and citing a `source`.
 * Expanding coverage to additional countries and continents.
 
 Please verify information against official gym websites or other reliable public
