@@ -2,8 +2,13 @@
 """Convert climbing_centers.csv into climbing_centers.json.
 
 Coerces types (booleans, floats), drops blank values to null, validates the
-grading_type enum, and fails loudly on bad data so a broken edit never reaches
-the published JSON.
+grading_type enum, derives an IANA `timezone` for each located center from its
+coordinates (offline, via timezonefinder), and fails loudly on bad data so a
+broken edit never reaches the published JSON.
+
+The timezone is DERIVED here, not stored in the CSV: humans edit coordinates,
+the build bakes the matching IANA id into the JSON. The app reads it to decide
+"open now" in each gym's own local time.
 """
 
 import csv
@@ -15,7 +20,7 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 SRC = ROOT / "climbing_centers.csv"
 OUT = ROOT / "climbing_centers.json"
 
-SCHEMA_VERSION = 1
+SCHEMA_VERSION = 2  # bumped: records now carry a derived `timezone`
 
 BOOL_FIELDS = {
     "bouldering", "lead", "top_rope",
@@ -70,12 +75,21 @@ def main():
         print(f"error: {SRC} not found", file=sys.stderr)
         return 1
 
+    try:
+        from timezonefinder import TimezoneFinder
+    except ImportError:
+        print("error: timezonefinder not installed (pip install -r requirements.txt)",
+              file=sys.stderr)
+        return 1
+    tf = TimezoneFinder()
+
     with SRC.open(encoding="utf-8-sig", newline="") as f:
         reader = csv.DictReader(f)
         raw_rows = list(reader)
 
     centers = []
     errors = []
+    warnings = []
     seen_ids = set()
 
     for i, raw in enumerate(raw_rows, start=2):  # line 1 is the header
@@ -92,7 +106,22 @@ def main():
             errors.append(f"row {i}: duplicate id {gid!r}")
         seen_ids.add(gid)
 
+        # Derive the IANA timezone from the coordinates. A located center that
+        # resolves to nothing (point just offshore, etc.) is a soft warning, not
+        # a failure -- the app falls back to the device timezone.
+        lat, lng = row.get("latitude"), row.get("longitude")
+        if lat is not None and lng is not None:
+            tz = tf.timezone_at(lat=lat, lng=lng)
+            if tz is None:
+                warnings.append(f"row {i} (id={gid}): no timezone for {lat},{lng}")
+            row["timezone"] = tz
+        else:
+            row["timezone"] = None
+
         centers.append(row)
+
+    for w in warnings:
+        print(f"  warning: {w}", file=sys.stderr)
 
     if errors:
         print(f"Validation failed with {len(errors)} error(s):", file=sys.stderr)
