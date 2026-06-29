@@ -26,7 +26,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "at-boulderbar-salzburg",
@@ -52,7 +57,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "at-boulderbar-st-poelten",
@@ -78,7 +88,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "at-boulderbar-wien-hannovergasse",
@@ -104,7 +119,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "at-boulderbar-wien-wienerberg",
@@ -130,7 +150,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "be-klimzaalblok-antwerpen",
@@ -156,7 +181,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "be-klimax-brussels",
@@ -182,7 +212,12 @@
       "last_verified": null,
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "be-terresneuves-brussels",
@@ -208,7 +243,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "be-bleau-gent",
@@ -234,7 +274,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "be-monk-hasselt",
@@ -260,7 +305,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "hr-fothia-zagreb",
@@ -286,7 +336,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "hr-hive-zagreb",
@@ -312,7 +367,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "cz-hangar-brno",
@@ -338,7 +398,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "cz-bigwall-praha",
@@ -364,7 +429,12 @@
       "last_verified": null,
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "cz-boulderbar-praha",
@@ -390,7 +460,12 @@
       "last_verified": null,
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "cz-hudy-karlin",
@@ -416,7 +491,12 @@
       "last_verified": null,
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "cz-smichoff-praha",
@@ -442,7 +522,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "dk-boulders-aarhus-aaby",
@@ -468,7 +553,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": "commercial_gym",
+      "day_pass": "true",
+      "chain_gym_equivalent": "true",
+      "day_pass_price": null,
+      "source": "https://boulders.dk/priser"
     },
     {
       "id": "dk-aalborg-klatreklub",
@@ -494,7 +584,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "dk-boulders-aalborg",
@@ -520,7 +615,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": "commercial_gym",
+      "day_pass": "true",
+      "chain_gym_equivalent": "true",
+      "day_pass_price": null,
+      "source": "https://boulders.dk/priser"
     },
     {
       "id": "dk-boulders-aarhus-city",
@@ -546,7 +646,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": "commercial_gym",
+      "day_pass": "true",
+      "chain_gym_equivalent": "true",
+      "day_pass_price": null,
+      "source": "https://boulders.dk/priser"
     },
     {
       "id": "dk-boulders-aarhus-nord",
@@ -572,7 +677,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": "commercial_gym",
+      "day_pass": "true",
+      "chain_gym_equivalent": "true",
+      "day_pass_price": null,
+      "source": "https://boulders.dk/priser"
     },
     {
       "id": "dk-boulder-hulen-esbjerg",
@@ -598,7 +708,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "dk-gak-hillerod",
@@ -624,7 +739,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "dk-holstebloc",
@@ -650,7 +770,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "dk-boulders-hvidovre",
@@ -676,7 +801,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": "commercial_gym",
+      "day_pass": "true",
+      "chain_gym_equivalent": "true",
+      "day_pass_price": null,
+      "source": "https://boulders.dk/priser"
     },
     {
       "id": "dk-boulders-aarhus-syd",
@@ -702,7 +832,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": "commercial_gym",
+      "day_pass": "true",
+      "chain_gym_equivalent": "true",
+      "day_pass_price": null,
+      "source": "https://boulders.dk/priser"
     },
     {
       "id": "dk-boulders-amager",
@@ -728,7 +863,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": "commercial_gym",
+      "day_pass": "true",
+      "chain_gym_equivalent": "true",
+      "day_pass_price": null,
+      "source": "https://boulders.dk/priser"
     },
     {
       "id": "dk-kolding-klatreklub",
@@ -754,7 +894,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "dk-dtu-climbing",
@@ -780,7 +925,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "dk-norrebro-klatreklub",
@@ -806,7 +956,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "dk-beta-sydhavn",
@@ -832,7 +987,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": "commercial_gym",
+      "day_pass": "true",
+      "chain_gym_equivalent": "true",
+      "day_pass_price": "129-149 DKK",
+      "source": "https://betaboulders.com/prices"
     },
     {
       "id": "dk-boulders-sydhavn",
@@ -858,7 +1018,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": "commercial_gym",
+      "day_pass": "true",
+      "chain_gym_equivalent": "true",
+      "day_pass_price": null,
+      "source": "https://boulders.dk/priser"
     },
     {
       "id": "dk-bison-kodbyen",
@@ -884,7 +1049,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": "commercial_gym",
+      "day_pass": "true",
+      "chain_gym_equivalent": "true",
+      "day_pass_price": "145 DKK",
+      "source": "https://www.bison-boulders.com/prices"
     },
     {
       "id": "dk-beta-osterbro",
@@ -910,7 +1080,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": "commercial_gym",
+      "day_pass": "true",
+      "chain_gym_equivalent": "true",
+      "day_pass_price": "129-149 DKK",
+      "source": "https://betaboulders.com/prices"
     },
     {
       "id": "dk-boulders-odense",
@@ -936,7 +1111,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": "commercial_gym",
+      "day_pass": "true",
+      "chain_gym_equivalent": "true",
+      "day_pass_price": null,
+      "source": "https://boulders.dk/priser"
     },
     {
       "id": "dk-obk-odense",
@@ -962,7 +1142,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "dk-bison-tobaksbyen",
@@ -988,7 +1173,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": "commercial_gym",
+      "day_pass": "true",
+      "chain_gym_equivalent": "true",
+      "day_pass_price": "145 DKK",
+      "source": "https://www.bison-boulders.com/prices"
     },
     {
       "id": "dk-boulders-valby",
@@ -1014,7 +1204,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": "commercial_gym",
+      "day_pass": "true",
+      "chain_gym_equivalent": "true",
+      "day_pass_price": null,
+      "source": "https://boulders.dk/priser"
     },
     {
       "id": "dk-beta-vanlose",
@@ -1040,7 +1235,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": "commercial_gym",
+      "day_pass": "true",
+      "chain_gym_equivalent": "true",
+      "day_pass_price": "129-149 DKK",
+      "source": "https://betaboulders.com/prices"
     },
     {
       "id": "dk-boulders-vanlose",
@@ -1066,7 +1266,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": "commercial_gym",
+      "day_pass": "true",
+      "chain_gym_equivalent": "true",
+      "day_pass_price": null,
+      "source": "https://boulders.dk/priser"
     },
     {
       "id": "ee-kivi-tallinn",
@@ -1092,7 +1297,12 @@
       "last_verified": null,
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "ee-koalarocks-tallinn",
@@ -1118,7 +1328,12 @@
       "last_verified": null,
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "ee-ronimisministeerium-tallinn",
@@ -1144,7 +1359,12 @@
       "last_verified": null,
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fi-boulderkeskus-espoo",
@@ -1170,7 +1390,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fi-boulderkeskus-herttoniemi",
@@ -1196,7 +1421,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fi-boulderkeskus-konala",
@@ -1222,7 +1452,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fi-boulderkeskus-lauttasaari",
@@ -1248,7 +1483,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fi-boulderkeskus-pasila",
@@ -1274,7 +1514,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-altissimo-albi",
@@ -1300,7 +1545,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-hardbloc-alfortville",
@@ -1326,7 +1576,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-climbup-aubervilliers",
@@ -1352,7 +1607,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-arkose-bordeaux",
@@ -1378,7 +1638,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-verticalart-dijon",
@@ -1404,7 +1669,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-verticalart-brest",
@@ -1430,7 +1700,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-altissimo-montpellier-grabels",
@@ -1456,7 +1731,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-antrebloc-grenoble",
@@ -1482,7 +1762,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-espacevertical-grenoble",
@@ -1508,7 +1793,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-verticalart-grenoble",
@@ -1534,7 +1824,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-murmur-issy",
@@ -1560,7 +1855,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-verticalart-lemans",
@@ -1586,7 +1886,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-verticalart-lille",
@@ -1612,7 +1917,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-arkose-lyon",
@@ -1638,7 +1948,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-mroc-laennec",
@@ -1664,7 +1979,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-mroc-part-dieu",
@@ -1690,7 +2010,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-blocsession-marseille-centre",
@@ -1716,7 +2041,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-blocsession-marseille-sud",
@@ -1742,7 +2072,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-arkose-massy",
@@ -1768,7 +2103,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-altissimo-metz",
@@ -1794,7 +2134,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-isatix-mondeville",
@@ -1820,7 +2165,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-verticalart-sqy",
@@ -1846,7 +2196,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-altissimo-montpellier-odysseum",
@@ -1872,7 +2227,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-arkose-montreuil",
@@ -1898,7 +2258,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-blockout-nantes",
@@ -1924,7 +2289,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-verticalart-nantes",
@@ -1950,7 +2320,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-murmur-pantin",
@@ -1976,7 +2351,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-arkose-didot",
@@ -2002,7 +2382,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-arkose-nation",
@@ -2028,7 +2413,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-climbup-paris-porte-italie",
@@ -2054,7 +2444,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-climbingdistrict-batignolles",
@@ -2080,7 +2475,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-climbingdistrict-saint-lazare",
@@ -2106,7 +2506,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-verticalart-chevaleret",
@@ -2132,7 +2537,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-verticalart-pigalle",
@@ -2158,7 +2568,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-altissimo-toulouse-portet",
@@ -2184,7 +2599,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-verticalart-rungis",
@@ -2210,7 +2630,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-espacevertical-smh",
@@ -2236,7 +2661,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-blockout-paris",
@@ -2262,7 +2692,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-climbup-saint-etienne",
@@ -2288,7 +2723,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-climbup-orleans-saran",
@@ -2314,7 +2754,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-blockout-strasbourg",
@@ -2340,7 +2785,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-arkose-pont-de-sevres",
@@ -2366,7 +2816,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-verticalart-toulon",
@@ -2392,7 +2847,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-altissimo-toulouse-montaudran",
@@ -2418,7 +2878,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-altissimo-toulouse-saint-martin",
@@ -2444,7 +2909,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-arkose-villeurbanne",
@@ -2470,7 +2940,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-mroc-villeurbanne",
@@ -2496,7 +2971,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "fr-blockout-vitrolles",
@@ -2522,7 +3002,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-blochuette-augsburg",
@@ -2548,7 +3033,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-dav-augsburg",
@@ -2574,7 +3064,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-bertablock-berlin",
@@ -2600,7 +3095,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-bouldergarten-berlin",
@@ -2626,7 +3126,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-boulderklub-kreuzberg",
@@ -2652,7 +3157,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-derkegel-berlin",
@@ -2678,7 +3188,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-magicmountain-berlin",
@@ -2704,7 +3219,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-ostbloc-berlin",
@@ -2730,7 +3250,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-kraftraum-bocholt",
@@ -2756,7 +3281,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-boulderwelt-muenchen-sued",
@@ -2782,7 +3312,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-boulderhaus-darmstadt",
@@ -2808,7 +3343,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-boulderwelt-dortmund",
@@ -2834,7 +3374,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-bouldercity-dresden",
@@ -2860,7 +3405,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-einstein-duisburg",
@@ -2886,7 +3436,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-einstein-duesseldorf",
@@ -2912,7 +3467,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-element-essen",
@@ -2938,7 +3498,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-boulderwelt-frankfurt",
@@ -2964,7 +3529,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-boulderwelt-hamburg",
@@ -2990,7 +3560,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-flashh-hamburg",
@@ -3016,7 +3591,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-beta-hannover",
@@ -3042,7 +3622,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-boulderwelt-karlsruhe",
@@ -3068,7 +3653,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-stuntwerk-krefeld",
@@ -3094,7 +3684,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-kletterfabrik-koeln",
@@ -3120,7 +3715,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-stuntwerk-koeln-muelheim",
@@ -3146,7 +3746,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-stuntwerk-koeln-zollstock",
@@ -3172,7 +3777,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-einstein-koeln",
@@ -3198,7 +3808,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-boulderwelt-muenchen-ost",
@@ -3224,7 +3839,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-boulderwelt-muenchen-west",
@@ -3250,7 +3870,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-element-muenchen",
@@ -3276,7 +3901,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-einstein-muenchen",
@@ -3302,7 +3932,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-cafekraft-nuernberg",
@@ -3328,7 +3963,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-studiobloc-darmstadt",
@@ -3354,7 +3994,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-einstein-recklinghausen",
@@ -3380,7 +4025,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-boulderwelt-regensburg",
@@ -3406,7 +4056,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-stuntwerk-rosenheim",
@@ -3432,7 +4087,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-stuntwerk-senden",
@@ -3458,7 +4118,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-rockerei-stuttgart",
@@ -3484,7 +4149,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-einstein-ulm",
@@ -3510,7 +4180,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "de-cube-wetzlar",
@@ -3536,7 +4211,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "gr-athens-climbing-project",
@@ -3562,7 +4242,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "gr-nobiggie-athens",
@@ -3588,7 +4273,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "gr-crux-thessaloniki",
@@ -3614,7 +4304,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "gr-xclimb-thessaloniki",
@@ -3640,7 +4335,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "hu-boulderacademy-budapest",
@@ -3666,7 +4366,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "hu-fless-budapest",
@@ -3692,7 +4397,12 @@
       "last_verified": null,
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "hu-flow-budapest",
@@ -3718,7 +4428,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "hu-gravity-budapest",
@@ -3744,7 +4459,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "hu-spider-budapest",
@@ -3770,7 +4490,12 @@
       "last_verified": null,
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "hu-spot-budapest",
@@ -3796,7 +4521,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "ie-awesomewalls-cork",
@@ -3822,7 +4552,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "ie-awesomewalls-dublin",
@@ -3848,7 +4583,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "ie-dublin-climbing-centre",
@@ -3874,7 +4614,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "ie-gravity-dublin",
@@ -3900,7 +4645,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-bouldereco-agrate",
@@ -3926,7 +4676,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-stonetemple-alberi",
@@ -3952,7 +4707,12 @@
       "last_verified": null,
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-rockmaster-arco",
@@ -3978,7 +4738,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-overest-ariccia",
@@ -4004,7 +4769,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-crape-barcellona",
@@ -4030,7 +4800,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-up-bologna",
@@ -4056,7 +4831,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-salewacube-bolzano",
@@ -4082,7 +4862,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-junglerock-borgopiave",
@@ -4108,7 +4893,12 @@
       "last_verified": null,
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-vertikale-bressanone",
@@ -4134,7 +4924,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-bigwalls-brugherio",
@@ -4160,7 +4955,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-solid-milano",
@@ -4186,7 +4986,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-savanzada-cagliari",
@@ -4212,7 +5017,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-thefarm-capannori",
@@ -4238,7 +5048,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-blocktorock-colle",
@@ -4264,7 +5079,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-cortina360-cortina",
@@ -4290,7 +5110,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-bigup-cuneo",
@@ -4316,7 +5141,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-stonemonkey-firenze",
@@ -4342,7 +5172,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-mandela-firenze",
@@ -4368,7 +5203,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-climbinghangar-frascati",
@@ -4394,7 +5234,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-boulderfactory-genova",
@@ -4420,7 +5265,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-blockland-laquila",
@@ -4446,7 +5296,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-infinityboulder-mattarello",
@@ -4472,7 +5327,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-rockarena-merano",
@@ -4498,7 +5358,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-manga-milano",
@@ -4524,7 +5389,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-rockspot-milano",
@@ -4550,7 +5420,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-equilibrium-modena",
@@ -4576,7 +5451,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-gekoclimb-modena",
@@ -4602,7 +5482,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-rocknfire-modena",
@@ -4628,7 +5513,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-intellighenzia-padova",
@@ -4654,7 +5544,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-scalart-palermo",
@@ -4680,7 +5575,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-pareti-parma",
@@ -4706,7 +5606,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-rockspot-pero",
@@ -4732,7 +5637,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-urbanwall-pero",
@@ -4758,7 +5668,12 @@
       "last_verified": null,
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-metropolitan-perugia",
@@ -4784,7 +5699,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-campfour-pietramurata",
@@ -4810,7 +5730,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-rocktime-pistoia",
@@ -4836,7 +5761,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-bluerock-pompei",
@@ -4862,7 +5792,12 @@
       "last_verified": null,
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-crazycenter-prato",
@@ -4888,7 +5823,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-palaroccia-quarto",
@@ -4914,7 +5854,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-rambla-vertical-roma",
@@ -4940,7 +5885,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-climbingside-roma",
@@ -4966,7 +5916,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": "club_wall",
+      "day_pass": "false",
+      "chain_gym_equivalent": "false",
+      "day_pass_price": "15 EUR",
+      "source": "https://www.ciclopeclimb.com/"
     },
     {
       "id": "it-monkeyisland-roma",
@@ -4992,7 +5947,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-movimentoverticale-roma",
@@ -5018,7 +5978,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": "club_wall",
+      "day_pass": "false",
+      "chain_gym_equivalent": "false",
+      "day_pass_price": "10 EUR",
+      "source": "https://movimentoverticale.it/orari-tariffe/"
     },
     {
       "id": "it-rockdreams-roma",
@@ -5044,7 +6009,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-rockit-roma",
@@ -5070,7 +6040,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": "commercial_gym",
+      "day_pass": "true",
+      "chain_gym_equivalent": "true",
+      "day_pass_price": "12-18 EUR",
+      "source": "https://www.rockit-arrampicataroma.it/abbonamenti/"
     },
     {
       "id": "it-starwall-roma",
@@ -5096,7 +6071,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": "commercial_gym",
+      "day_pass": "unverified",
+      "chain_gym_equivalent": "unverified",
+      "day_pass_price": null,
+      "source": "https://www.starwall.it/"
     },
     {
       "id": "it-ecoleverticale-roma",
@@ -5122,7 +6102,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-newrock-sanzeno",
@@ -5148,7 +6133,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-area51-scandicci",
@@ -5174,7 +6164,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-betahouse-sesto",
@@ -5200,7 +6195,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-vertical-siracusa",
@@ -5226,7 +6226,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-gam-taglio",
@@ -5252,7 +6257,12 @@
       "last_verified": null,
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-bside-torino",
@@ -5278,7 +6288,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-cat-torino",
@@ -5304,7 +6319,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-sanbapolis-trento",
@@ -5330,7 +6350,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-stoneage-uboldo",
@@ -5356,7 +6381,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-crazycenter-vallina",
@@ -5382,7 +6412,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-kingrock-verona",
@@ -5408,7 +6443,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "it-invertclimb-zonaind",
@@ -5434,7 +6474,12 @@
       "last_verified": null,
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "lv-falkors-riga",
@@ -5460,7 +6505,12 @@
       "last_verified": null,
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "lv-virsotne-riga",
@@ -5486,7 +6536,12 @@
       "last_verified": null,
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "lt-bonobo-vilnius",
@@ -5512,7 +6567,12 @@
       "last_verified": null,
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "lt-vertical-vilnius",
@@ -5538,7 +6598,12 @@
       "last_verified": null,
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "nl-beest-bosenlommer",
@@ -5564,7 +6629,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "nl-beest-hetlab",
@@ -5590,7 +6660,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "nl-luchthaven-amsterdam",
@@ -5616,7 +6691,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "nl-klimmuur-amsterdam",
@@ -5642,7 +6722,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "nl-mountainnetwork-amsterdam",
@@ -5668,7 +6753,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "nl-monk-amsterdam",
@@ -5694,7 +6784,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "nl-monk-eindhoven",
@@ -5720,7 +6815,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "nl-neoliet-eindhoven-zuid",
@@ -5746,7 +6846,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "nl-cube-enschede",
@@ -5772,7 +6877,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "nl-gropo-groningen",
@@ -5798,7 +6908,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "nl-bjoeks-groningen",
@@ -5824,7 +6939,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "nl-monk-hilversum",
@@ -5850,7 +6970,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "nl-mountainnetwork-nieuwegein",
@@ -5876,7 +7001,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "nl-grip-nijmegen",
@@ -5902,7 +7032,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "nl-beest-rotterdam",
@@ -5928,7 +7063,12 @@
       "last_verified": null,
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "nl-monk-rotterdam",
@@ -5954,7 +7094,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "nl-neoliet-tilburg",
@@ -5980,7 +7125,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "nl-energiehaven-utrecht",
@@ -6006,7 +7156,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "nl-sterk-utrecht",
@@ -6032,7 +7187,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "nl-sterk-spoor-utrecht",
@@ -6058,7 +7218,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "nl-klimmuur-utrecht",
@@ -6084,7 +7249,12 @@
       "last_verified": null,
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "nl-neoliet-utrecht",
@@ -6110,7 +7280,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "no-bergen-klatreklubb",
@@ -6136,7 +7311,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "no-sorlandet-klatresenter",
@@ -6162,7 +7342,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "no-klatreverket-lokka",
@@ -6188,7 +7373,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "no-klatreverket-torshov",
@@ -6214,7 +7404,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "no-oslo-klatresenter",
@@ -6240,7 +7435,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "no-oslo-mikrobuldreri",
@@ -6266,7 +7466,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "no-vulkan-klatresenter",
@@ -6292,7 +7497,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "no-trondheim-klatresenter",
@@ -6318,7 +7528,12 @@
       "last_verified": null,
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "pl-forteca-krakow",
@@ -6344,7 +7559,12 @@
       "last_verified": null,
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "pl-murall-annopol",
@@ -6370,7 +7590,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "pl-murall-krakowska",
@@ -6396,7 +7621,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "pt-escala25-lisbon",
@@ -6422,7 +7652,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "pt-vertigo-lisbon",
@@ -6448,7 +7683,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "pt-saorock-porto",
@@ -6474,7 +7714,12 @@
       "last_verified": null,
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "si-plezalnicenter-ljubljana",
@@ -6500,7 +7745,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "es-sputnik-alcobendas",
@@ -6526,7 +7776,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "es-climbat-xmadrid",
@@ -6552,7 +7807,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "es-climbat-aviles",
@@ -6578,7 +7838,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "es-climbat-barakaldo",
@@ -6604,7 +7869,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "es-climbat-foixarda",
@@ -6630,7 +7900,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "es-sharma-barcelona",
@@ -6656,7 +7931,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "es-sputnik-berango",
@@ -6682,7 +7962,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "es-sharma-gava",
@@ -6708,7 +7993,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "es-indoorwall-getafe",
@@ -6734,7 +8024,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "es-sputnik-las-rozas",
@@ -6760,7 +8055,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "es-sharma-madrid",
@@ -6786,7 +8086,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "es-sputnik-chamberi",
@@ -6812,7 +8117,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "es-sputnik-guindalera",
@@ -6838,7 +8148,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "es-sputnik-legazpi",
@@ -6864,7 +8179,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "es-climbat-murcia",
@@ -6890,7 +8210,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "es-indoorwall-torrejon",
@@ -6916,7 +8241,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "es-climbat-zaragoza",
@@ -6942,7 +8272,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "se-backaboulder-goteborg",
@@ -6968,7 +8303,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "se-klattercentret-goteborg",
@@ -6994,7 +8334,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "se-klatterdomen-goteborg",
@@ -7020,7 +8365,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "se-klatterlabbet-goteborg",
@@ -7046,7 +8396,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "se-klattercentret-helsingborg",
@@ -7072,7 +8427,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "se-klattercentret-malmo",
@@ -7098,7 +8458,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "se-malmo-klatterklubb",
@@ -7124,7 +8489,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "se-klatterverket-sickla",
@@ -7150,7 +8520,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "se-klatterlabbet-partille",
@@ -7176,7 +8551,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "se-klattercentret-solna",
@@ -7202,7 +8582,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "se-boulderingsthlm",
@@ -7228,7 +8613,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "se-karbin-stockholm",
@@ -7254,7 +8644,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "se-klattercentret-akalla",
@@ -7280,7 +8675,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "se-klattercentret-telefonplan",
@@ -7306,7 +8706,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "se-klatterverket-gasverket",
@@ -7332,7 +8737,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "se-crux-uppsala",
@@ -7358,7 +8768,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "se-klattercentret-uppsala",
@@ -7384,7 +8799,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "se-klattercentret-vasteras",
@@ -7410,7 +8830,12 @@
       "last_verified": "2026-06-13",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "ch-bimano-bern",
@@ -7436,7 +8861,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "ch-boulderlounge-schlieren",
@@ -7462,7 +8892,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "ch-minimum-zurich",
@@ -7488,7 +8923,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "gb-depot-birmingham",
@@ -7514,7 +8954,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "gb-flashpoint-bristol",
@@ -7540,7 +8985,12 @@
       "last_verified": null,
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "gb-hangar-bristol",
@@ -7566,7 +9016,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "gb-flashpoint-cardiff",
@@ -7592,7 +9047,12 @@
       "last_verified": null,
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "gb-hangar-edinburgh",
@@ -7618,7 +9078,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "gb-hangar-exeter",
@@ -7644,7 +9109,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "gb-depot-leeds-armley",
@@ -7670,7 +9140,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "gb-depot-leeds-pudsey",
@@ -7696,7 +9171,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "gb-hangar-liverpool-north",
@@ -7722,7 +9202,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "gb-hangar-liverpool-south",
@@ -7748,7 +9233,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "gb-citybouldering-aldgate",
@@ -7774,7 +9264,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "gb-citybouldering-stratford",
@@ -7800,7 +9295,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "gb-citybouldering-whitecity",
@@ -7826,7 +9326,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "gb-parthian-wandsworth",
@@ -7852,7 +9357,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "gb-substation-brixton",
@@ -7878,7 +9388,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "gb-depot-manchester",
@@ -7904,7 +9419,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "gb-depot-nottingham",
@@ -7930,7 +9450,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "gb-hangar-plymouth",
@@ -7956,7 +9481,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "gb-parthian-reading",
@@ -7982,7 +9512,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "gb-hangar-reading",
@@ -8008,7 +9543,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "gb-depot-sheffield",
@@ -8034,7 +9574,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "gb-hangar-sheffield",
@@ -8060,7 +9605,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "gb-parthian-southampton",
@@ -8086,7 +9636,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "gb-hangar-southampton",
@@ -8112,7 +9667,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     },
     {
       "id": "gb-hangar-swansea",
@@ -8138,7 +9698,12 @@
       "last_verified": "2026-06-14",
       "status": null,
       "status_date": null,
-      "successor_id": null
+      "successor_id": null,
+      "facility_type": null,
+      "day_pass": null,
+      "chain_gym_equivalent": null,
+      "day_pass_price": null,
+      "source": null
     }
   ]
 }
