@@ -1,0 +1,1086 @@
+{
+  "version": 1,
+  "count": 29,
+  "hours": [
+    {
+      "id": "dk-beta-osterbro",
+      "gym_name": "Beta Boulders Østerbro",
+      "days": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "hours_source": null,
+      "hours_status": "unverified",
+      "hours_confidence": "low",
+      "verified_date": "2026-06-29",
+      "notes": "Hours not published on official site and not found in secondary sources; needs verification"
+    },
+    {
+      "id": "dk-beta-sydhavn",
+      "gym_name": "Beta Boulders Sydhavn",
+      "days": [
+        {
+          "open": "07:00",
+          "close": "22:00"
+        },
+        {
+          "open": "07:00",
+          "close": "22:00"
+        },
+        {
+          "open": "07:00",
+          "close": "22:00"
+        },
+        {
+          "open": "07:00",
+          "close": "22:00"
+        },
+        {
+          "open": "07:00",
+          "close": "22:00"
+        },
+        {
+          "open": "09:00",
+          "close": "21:00"
+        },
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "hours_source": "https://www.visitcopenhagen.com/copenhagen/planning/beta-boulders-gdk1157991",
+      "hours_status": "secondary",
+      "hours_confidence": "medium",
+      "verified_date": "2026-06-29",
+      "notes": "Secondary source (labelled summer hours); not published on official site"
+    },
+    {
+      "id": "dk-beta-vanlose",
+      "gym_name": "Beta Boulders Vanløse",
+      "days": [
+        {
+          "open": "07:00",
+          "close": "22:00"
+        },
+        {
+          "open": "07:00",
+          "close": "22:00"
+        },
+        {
+          "open": "07:00",
+          "close": "22:00"
+        },
+        {
+          "open": "07:00",
+          "close": "22:00"
+        },
+        {
+          "open": "07:00",
+          "close": "22:00"
+        },
+        {
+          "open": "09:00",
+          "close": "21:00"
+        },
+        {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      ],
+      "hours_source": "https://www.visitcopenhagen.com/copenhagen/planning/beta-boulders-gdk1157991",
+      "hours_status": "secondary",
+      "hours_confidence": "medium",
+      "verified_date": "2026-06-29",
+      "notes": "Secondary source (labelled summer hours); not published on official site"
+    },
+    {
+      "id": "dk-bison-kodbyen",
+      "gym_name": "Bison Boulders Kødbyen",
+      "days": [
+        {
+          "open": "09:00",
+          "close": "23:00"
+        },
+        {
+          "open": "09:00",
+          "close": "23:00"
+        },
+        {
+          "open": "09:00",
+          "close": "23:00"
+        },
+        {
+          "open": "07:00",
+          "close": "23:00"
+        },
+        {
+          "open": "09:00",
+          "close": "23:00"
+        },
+        {
+          "open": "09:00",
+          "close": "23:00"
+        },
+        {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      ],
+      "hours_source": "https://www.bison-boulders.com/prices",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": "Thursdays open from 07:00"
+    },
+    {
+      "id": "dk-bison-tobaksbyen",
+      "gym_name": "Bison Boulders Tobaksbyen",
+      "days": [
+        {
+          "open": "09:00",
+          "close": "22:00"
+        },
+        {
+          "open": "09:00",
+          "close": "22:00"
+        },
+        {
+          "open": "09:00",
+          "close": "22:00"
+        },
+        {
+          "open": "09:00",
+          "close": "22:00"
+        },
+        {
+          "open": "09:00",
+          "close": "22:00"
+        },
+        {
+          "open": "09:00",
+          "close": "20:00"
+        },
+        {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      ],
+      "hours_source": "https://www.bison-boulders.com/prices",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": null
+    },
+    {
+      "id": "dk-boulders-aalborg",
+      "gym_name": "Boulders Aalborg",
+      "days": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "hours_source": "https://boulders.dk/gyms",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": null
+    },
+    {
+      "id": "dk-boulders-aarhus-aaby",
+      "gym_name": "Boulders Aarhus Aaby",
+      "days": [
+        {
+          "open": "08:00",
+          "close": "23:00"
+        },
+        {
+          "open": "08:00",
+          "close": "23:00"
+        },
+        {
+          "open": "08:00",
+          "close": "23:00"
+        },
+        {
+          "open": "08:00",
+          "close": "23:00"
+        },
+        {
+          "open": "08:00",
+          "close": "23:00"
+        },
+        {
+          "open": "08:00",
+          "close": "23:00"
+        },
+        {
+          "open": "08:00",
+          "close": "23:00"
+        }
+      ],
+      "hours_source": "https://boulders.dk/gyms",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": null
+    },
+    {
+      "id": "dk-boulders-aarhus-city",
+      "gym_name": "Boulders Aarhus City",
+      "days": [
+        {
+          "open": "08:00",
+          "close": "23:00"
+        },
+        {
+          "open": "08:00",
+          "close": "23:00"
+        },
+        {
+          "open": "08:00",
+          "close": "23:00"
+        },
+        {
+          "open": "08:00",
+          "close": "23:00"
+        },
+        {
+          "open": "08:00",
+          "close": "23:00"
+        },
+        {
+          "open": "08:00",
+          "close": "23:00"
+        },
+        {
+          "open": "08:00",
+          "close": "23:00"
+        }
+      ],
+      "hours_source": "https://boulders.dk/gyms",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": null
+    },
+    {
+      "id": "dk-boulders-aarhus-nord",
+      "gym_name": "Boulders Aarhus Nord",
+      "days": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "hours_source": "https://boulders.dk/gyms",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": null
+    },
+    {
+      "id": "dk-boulders-aarhus-syd",
+      "gym_name": "Boulders Aarhus Syd",
+      "days": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "hours_source": "https://boulders.dk/gyms",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": null
+    },
+    {
+      "id": "dk-boulders-amager",
+      "gym_name": "Boulders Amager",
+      "days": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "hours_source": "https://boulders.dk/gyms",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": null
+    },
+    {
+      "id": "dk-boulders-hvidovre",
+      "gym_name": "Boulders Hvidovre",
+      "days": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "hours_source": "https://boulders.dk/gyms",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": null
+    },
+    {
+      "id": "dk-boulders-odense",
+      "gym_name": "Boulders Odense",
+      "days": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "hours_source": "https://boulders.dk/gyms",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": null
+    },
+    {
+      "id": "dk-boulders-sydhavn",
+      "gym_name": "Boulders Sydhavn",
+      "days": [
+        {
+          "open": "08:00",
+          "close": "23:00"
+        },
+        {
+          "open": "08:00",
+          "close": "23:00"
+        },
+        {
+          "open": "08:00",
+          "close": "23:00"
+        },
+        {
+          "open": "08:00",
+          "close": "23:00"
+        },
+        {
+          "open": "08:00",
+          "close": "23:00"
+        },
+        {
+          "open": "08:00",
+          "close": "23:00"
+        },
+        {
+          "open": "08:00",
+          "close": "23:00"
+        }
+      ],
+      "hours_source": "https://boulders.dk/gyms",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": null
+    },
+    {
+      "id": "dk-boulders-valby",
+      "gym_name": "Boulders Valby",
+      "days": [
+        {
+          "open": "09:00",
+          "close": "22:00"
+        },
+        {
+          "open": "09:00",
+          "close": "22:00"
+        },
+        {
+          "open": "09:00",
+          "close": "22:00"
+        },
+        {
+          "open": "09:00",
+          "close": "22:00"
+        },
+        {
+          "open": "09:00",
+          "close": "22:00"
+        },
+        {
+          "open": "09:00",
+          "close": "22:00"
+        },
+        {
+          "open": "09:00",
+          "close": "22:00"
+        }
+      ],
+      "hours_source": "https://boulders.dk/gyms",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": null
+    },
+    {
+      "id": "dk-boulders-vanlose",
+      "gym_name": "Boulders Vanløse",
+      "days": [
+        {
+          "open": "08:00",
+          "close": "23:00"
+        },
+        {
+          "open": "08:00",
+          "close": "23:00"
+        },
+        {
+          "open": "08:00",
+          "close": "23:00"
+        },
+        {
+          "open": "08:00",
+          "close": "23:00"
+        },
+        {
+          "open": "08:00",
+          "close": "23:00"
+        },
+        {
+          "open": "08:00",
+          "close": "23:00"
+        },
+        {
+          "open": "08:00",
+          "close": "23:00"
+        }
+      ],
+      "hours_source": "https://boulders.dk/gyms",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": null
+    },
+    {
+      "id": "it-bside-torino",
+      "gym_name": "B-Side Climbing Village",
+      "days": [
+        {
+          "open": "10:30",
+          "close": "22:30"
+        },
+        {
+          "open": "10:30",
+          "close": "22:30"
+        },
+        {
+          "open": "10:30",
+          "close": "22:30"
+        },
+        {
+          "open": "10:30",
+          "close": "22:30"
+        },
+        {
+          "open": "10:30",
+          "close": "22:30"
+        },
+        {
+          "open": "12:30",
+          "close": "19:00"
+        },
+        {
+          "open": "14:00",
+          "close": "19:00"
+        }
+      ],
+      "hours_source": "https://www.bsideclimbing.it",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": "Sat only Oct-May; Sun only Jan-Feb"
+    },
+    {
+      "id": "it-cat-torino",
+      "gym_name": "Centro Arrampicata Torino (C.A.T.)",
+      "days": [
+        {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        {
+          "open": "12:00",
+          "close": "19:00"
+        },
+        {
+          "open": "12:00",
+          "close": "19:00"
+        }
+      ],
+      "hours_source": "https://centroarrampicatatorino.org",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": "Weekend hours Nov-Apr; reduced/closed weekends in summer"
+    },
+    {
+      "id": "it-climbingside-roma",
+      "gym_name": "Climbing Side (Ciclope)",
+      "days": [
+        {
+          "open": "16:00",
+          "close": "22:00"
+        },
+        {
+          "open": "12:00",
+          "close": "22:00"
+        },
+        {
+          "open": "16:00",
+          "close": "22:00"
+        },
+        {
+          "open": "12:00",
+          "close": "22:00"
+        },
+        {
+          "open": "16:00",
+          "close": "22:00"
+        },
+        {
+          "open": "11:00",
+          "close": "17:00"
+        },
+        null
+      ],
+      "hours_source": "https://www.ciclopeclimb.com/",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": "Gym opening hours per site Contatti; Sun closed"
+    },
+    {
+      "id": "it-fulviobernardini-roma",
+      "gym_name": "Fulvio Bernardini (UISP) - Arrampicata",
+      "days": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        null,
+        null
+      ],
+      "hours_source": "https://www.fulviobernardiniuisp.com/arrampicata",
+      "hours_status": "verified",
+      "hours_confidence": "medium",
+      "verified_date": "2026-06-29",
+      "notes": "Last entry 21:15; weekend not confirmed"
+    },
+    {
+      "id": "it-manga-milano",
+      "gym_name": "Manga Climbing",
+      "days": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        {
+          "open": "10:00",
+          "close": "19:30"
+        },
+        {
+          "open": "10:00",
+          "close": "19:30"
+        }
+      ],
+      "hours_source": "https://mangaclimbing.it",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": null
+    },
+    {
+      "id": "it-palaroccia-quarto",
+      "gym_name": "Palaroccia Napoli",
+      "days": [
+        {
+          "open": "15:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "15:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "15:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "20:00"
+        },
+        null
+      ],
+      "hours_source": "https://www.freeclimbingnapoli.it",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": "Sun closed"
+    },
+    {
+      "id": "it-pareti-parma",
+      "gym_name": "Pareti Sport Center",
+      "days": [
+        {
+          "open": "10:00",
+          "close": "22:30"
+        },
+        {
+          "open": "10:00",
+          "close": "22:30"
+        },
+        {
+          "open": "10:00",
+          "close": "22:30"
+        },
+        {
+          "open": "10:00",
+          "close": "22:30"
+        },
+        {
+          "open": "10:00",
+          "close": "22:30"
+        },
+        {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "hours_source": "https://paretisportcenter.com",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": "Jul Sun closed; Aug Sat-Sun closed"
+    },
+    {
+      "id": "it-rockarena-merano",
+      "gym_name": "Centro d'arrampicata Rockarena",
+      "days": [
+        null,
+        {
+          "open": "09:00",
+          "close": "23:00"
+        },
+        {
+          "open": "09:00",
+          "close": "23:00"
+        },
+        {
+          "open": "09:00",
+          "close": "23:00"
+        },
+        {
+          "open": "19:00",
+          "close": "23:00"
+        },
+        {
+          "open": "13:00",
+          "close": "20:00"
+        },
+        {
+          "open": "13:00",
+          "close": "20:00"
+        }
+      ],
+      "hours_source": "https://www.rockarena.it",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": "Sept-Mar; Mon courses only; reduced Jun-Aug (Tue-Thu 17-23)"
+    },
+    {
+      "id": "it-rockit-roma",
+      "gym_name": "Rock it Climbing Roma",
+      "days": [
+        {
+          "open": "08:00",
+          "close": "23:00"
+        },
+        {
+          "open": "08:00",
+          "close": "23:00"
+        },
+        {
+          "open": "08:00",
+          "close": "23:00"
+        },
+        {
+          "open": "08:00",
+          "close": "23:00"
+        },
+        {
+          "open": "08:00",
+          "close": "23:00"
+        },
+        {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "hours_source": "https://www.rockit-arrampicataroma.it/abbonamenti/",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": null
+    },
+    {
+      "id": "it-scalart-palermo",
+      "gym_name": "Scalart",
+      "days": [
+        {
+          "open": "14:00",
+          "close": "22:00"
+        },
+        {
+          "open": "14:00",
+          "close": "22:00"
+        },
+        {
+          "open": "14:00",
+          "close": "22:00"
+        },
+        {
+          "open": "14:00",
+          "close": "22:00"
+        },
+        {
+          "open": "14:00",
+          "close": "22:00"
+        },
+        null,
+        null
+      ],
+      "hours_source": "https://www.scalart.it",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": "Mon-Fri afternoon hours; weekend not published"
+    },
+    {
+      "id": "it-starwall-roma",
+      "gym_name": "Star Wall Climbing Park",
+      "days": [
+        {
+          "open": "09:00",
+          "close": "22:00"
+        },
+        {
+          "open": "09:00",
+          "close": "22:00"
+        },
+        {
+          "open": "09:00",
+          "close": "22:00"
+        },
+        {
+          "open": "09:00",
+          "close": "22:00"
+        },
+        {
+          "open": "09:00",
+          "close": "22:00"
+        },
+        null,
+        null
+      ],
+      "hours_source": "https://www.starwall.it/",
+      "hours_status": "verified",
+      "hours_confidence": "medium",
+      "verified_date": "2026-06-29",
+      "notes": "Mon-Fri 9-22 per site; weekend not listed (left blank)"
+    },
+    {
+      "id": "it-up-bologna",
+      "gym_name": "UP Urban Climbing",
+      "days": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        {
+          "open": "09:00",
+          "close": "19:30"
+        },
+        {
+          "open": "09:00",
+          "close": "19:30"
+        }
+      ],
+      "hours_source": "https://www.upurbanclimbing.it",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": "Climbing halls close ~20-30min before; Sun closed mid-Jun to mid-Sep"
+    },
+    {
+      "id": "it-verticalpark-roma",
+      "gym_name": "Vertical Park",
+      "days": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        {
+          "open": "13:00",
+          "close": "23:00"
+        },
+        {
+          "open": "11:30",
+          "close": "19:00"
+        },
+        null
+      ],
+      "hours_source": "https://www.verticalpark.it/",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": "Sun closed"
+    }
+  ]
+}
