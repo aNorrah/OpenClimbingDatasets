@@ -4,7 +4,10 @@ on:
   pull_request:
     paths:
       - "climbing_centers.csv"
+      - "opening_hours.csv"
       - "scripts/csv_to_json.py"
+      - "scripts/hours_to_json.py"
+      - "requirements.txt"
 
 jobs:
   validate:
@@ -15,6 +18,13 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+          cache: pip
 
-      - name: Validate (does not commit)
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Validate centers (does not commit)
         run: python scripts/csv_to_json.py
+
+      - name: Validate hours (does not commit)
+        run: python scripts/hours_to_json.py
