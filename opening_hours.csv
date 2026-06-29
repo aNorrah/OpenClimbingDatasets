@@ -1,0 +1,30 @@
+id,gym_name,mon_open,mon_close,tue_open,tue_close,wed_open,wed_close,thu_open,thu_close,fri_open,fri_close,sat_open,sat_close,sun_open,sun_close,hours_source,hours_status,hours_confidence,verified_date,notes
+dk-boulders-aalborg,Boulders Aalborg,10:00,22:00,10:00,22:00,10:00,22:00,10:00,22:00,10:00,22:00,10:00,22:00,10:00,22:00,https://boulders.dk/gyms,verified,high,2026-06-29,
+dk-boulders-aarhus-aaby,Boulders Aarhus Aaby,08:00,23:00,08:00,23:00,08:00,23:00,08:00,23:00,08:00,23:00,08:00,23:00,08:00,23:00,https://boulders.dk/gyms,verified,high,2026-06-29,
+dk-boulders-aarhus-city,Boulders Aarhus City,08:00,23:00,08:00,23:00,08:00,23:00,08:00,23:00,08:00,23:00,08:00,23:00,08:00,23:00,https://boulders.dk/gyms,verified,high,2026-06-29,
+dk-boulders-aarhus-nord,Boulders Aarhus Nord,10:00,22:00,10:00,22:00,10:00,22:00,10:00,22:00,10:00,22:00,10:00,22:00,10:00,22:00,https://boulders.dk/gyms,verified,high,2026-06-29,
+dk-boulders-aarhus-syd,Boulders Aarhus Syd,10:00,22:00,10:00,22:00,10:00,22:00,10:00,22:00,10:00,22:00,10:00,22:00,10:00,22:00,https://boulders.dk/gyms,verified,high,2026-06-29,
+dk-boulders-odense,Boulders Odense,10:00,22:00,10:00,22:00,10:00,22:00,10:00,22:00,10:00,22:00,10:00,22:00,10:00,22:00,https://boulders.dk/gyms,verified,high,2026-06-29,
+dk-boulders-amager,Boulders Amager,10:00,22:00,10:00,22:00,10:00,22:00,10:00,22:00,10:00,22:00,10:00,22:00,10:00,22:00,https://boulders.dk/gyms,verified,high,2026-06-29,
+dk-boulders-hvidovre,Boulders Hvidovre,10:00,22:00,10:00,22:00,10:00,22:00,10:00,22:00,10:00,22:00,10:00,22:00,10:00,22:00,https://boulders.dk/gyms,verified,high,2026-06-29,
+dk-boulders-sydhavn,Boulders Sydhavn,08:00,23:00,08:00,23:00,08:00,23:00,08:00,23:00,08:00,23:00,08:00,23:00,08:00,23:00,https://boulders.dk/gyms,verified,high,2026-06-29,
+dk-boulders-valby,Boulders Valby,09:00,22:00,09:00,22:00,09:00,22:00,09:00,22:00,09:00,22:00,09:00,22:00,09:00,22:00,https://boulders.dk/gyms,verified,high,2026-06-29,
+dk-boulders-vanlose,Boulders Vanløse,08:00,23:00,08:00,23:00,08:00,23:00,08:00,23:00,08:00,23:00,08:00,23:00,08:00,23:00,https://boulders.dk/gyms,verified,high,2026-06-29,
+dk-bison-kodbyen,Bison Boulders Kødbyen,09:00,23:00,09:00,23:00,09:00,23:00,07:00,23:00,09:00,23:00,09:00,23:00,09:00,23:00,https://www.bison-boulders.com/prices,verified,high,2026-06-29,Thursdays open from 07:00
+dk-bison-tobaksbyen,Bison Boulders Tobaksbyen,09:00,22:00,09:00,22:00,09:00,22:00,09:00,22:00,09:00,22:00,09:00,20:00,09:00,20:00,https://www.bison-boulders.com/prices,verified,high,2026-06-29,
+dk-beta-osterbro,Beta Boulders Østerbro,,,,,,,,,,,,,,,,unverified,low,2026-06-29,Hours not published on official site and not found in secondary sources; needs verification
+dk-beta-sydhavn,Beta Boulders Sydhavn,07:00,22:00,07:00,22:00,07:00,22:00,07:00,22:00,07:00,22:00,09:00,21:00,09:00,21:00,https://www.visitcopenhagen.com/copenhagen/planning/beta-boulders-gdk1157991,secondary,medium,2026-06-29,Secondary source (labelled summer hours); not published on official site
+dk-beta-vanlose,Beta Boulders Vanløse,07:00,22:00,07:00,22:00,07:00,22:00,07:00,22:00,07:00,22:00,09:00,21:00,09:00,21:00,https://www.visitcopenhagen.com/copenhagen/planning/beta-boulders-gdk1157991,secondary,medium,2026-06-29,Secondary source (labelled summer hours); not published on official site
+id,gym_name,mon_open,mon_close,tue_open,tue_close,wed_open,wed_close,thu_open,thu_close,fri_open,fri_close,sat_open,sat_close,sun_open,sun_close,hours_source,hours_status,hours_confidence,verified_date,notes
+it-rockit-roma,Rock it Climbing Roma,08:00,23:00,08:00,23:00,08:00,23:00,08:00,23:00,08:00,23:00,10:00,19:00,10:00,19:00,https://www.rockit-arrampicataroma.it/abbonamenti/,verified,high,2026-06-29,
+it-rockandwalls-roma,Rock&Walls (Lanciani Climbing),,,,,,,,,,,,,,,,unverified,low,2026-06-29,Hours not verified
+it-starwall-roma,Star Wall Climbing Park,09:00,22:00,09:00,22:00,09:00,22:00,09:00,22:00,09:00,22:00,,,,,https://www.starwall.it/,verified,medium,2026-06-29,Mon-Fri 9-22 per site; weekend not listed (left blank)
+it-verticalpark-roma,Vertical Park,10:00,23:00,10:00,23:00,10:00,23:00,10:00,23:00,13:00,23:00,11:30,19:00,,,https://www.verticalpark.it/,verified,high,2026-06-29,Sun closed
+it-fulviobernardini-roma,Fulvio Bernardini (UISP) - Arrampicata,10:00,23:00,10:00,23:00,10:00,23:00,10:00,23:00,10:00,23:00,,,,,https://www.fulviobernardiniuisp.com/arrampicata,verified,medium,2026-06-29,Last entry 21:15; weekend not confirmed
+it-climbingside-roma,Climbing Side (Ciclope),16:00,22:00,12:00,22:00,16:00,22:00,12:00,22:00,16:00,22:00,11:00,17:00,,,https://www.ciclopeclimb.com/,verified,high,2026-06-29,Gym opening hours per site Contatti; Sun closed
+it-movimentoverticale-roma,Movimento Verticale,17:00,22:00,17:00,22:00,17:00,22:00,17:00,22:00,17:00,22:00,,,,,https://movimentoverticale.it/,verified,medium,2026-06-29,Sat by prior arrangement (social); evening-only
+it-rambla-roma,Rambla Vertical,,,,,,,,,,,,,,,,unverified,low,2026-06-29,Only course slots known (Mon-Thu 19:30-21:00); public hours not verified
+it-getup-roma,Get Up ASD,,,,,,,,,,,,,,,,unverified,low,2026-06-29,Course-based; public hours not verified
+it-fonteromaeur-roma,Vertical - Fonte RomaEur,,,,,,,,,,,,,,,,unverified,low,2026-06-29,Hours not verified
+it-popolare-sanlorenzo-roma,Palestra Popolare San Lorenzo,,,,,,,,,,,,,,,,unverified,low,2026-06-29,Self-managed; hours not verified
+it-cai-roma,CAI Roma - pareti indoor,,,,,,,,,,,,,,,,unverified,low,2026-06-29,Varies by sede/course; not verified
