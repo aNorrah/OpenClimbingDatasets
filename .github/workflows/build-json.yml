@@ -5,7 +5,10 @@ on:
     branches: [main]
     paths:
       - "climbing_centers.csv"
+      - "opening_hours.csv"
       - "scripts/csv_to_json.py"
+      - "scripts/hours_to_json.py"
+      - "requirements.txt"
   # Allow manual runs from the Actions tab.
   workflow_dispatch:
 
@@ -25,12 +28,19 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+          cache: pip
 
-      - name: Generate JSON (fails on invalid data)
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate centers JSON (timezone baked from coords; fails on invalid data)
         run: python scripts/csv_to_json.py
+
+      - name: Generate hours JSON (fails on invalid data)
+        run: python scripts/hours_to_json.py
 
       - name: Commit regenerated JSON if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "build: regenerate climbing_centers.json [skip ci]"
-          file_pattern: climbing_centers.json
+          commit_message: "build: regenerate dataset JSON [skip ci]"
+          file_pattern: "climbing_centers.json opening_hours.json"
