@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 29,
+  "count": 43,
   "hours": [
     {
       "id": "dk-beta-osterbro",
@@ -606,6 +606,108 @@
       "notes": null
     },
     {
+      "id": "it-blockland-laquila",
+      "gym_name": "BlockLand Climbing Center",
+      "days": [
+        {
+          "open": "16:00",
+          "close": "23:00"
+        },
+        {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        {
+          "open": "16:00",
+          "close": "23:00"
+        },
+        {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        {
+          "open": "16:00",
+          "close": "23:00"
+        },
+        {
+          "open": "14:00",
+          "close": "21:00"
+        },
+        null
+      ],
+      "hours_source": "https://www.blockland.it",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": "Sun closed"
+    },
+    {
+      "id": "it-blocktorock-colle",
+      "gym_name": "Block To Rock",
+      "days": [
+        null,
+        {
+          "open": "17:00",
+          "close": "22:30"
+        },
+        {
+          "open": "18:00",
+          "close": "22:30"
+        },
+        {
+          "open": "17:00",
+          "close": "22:30"
+        },
+        {
+          "open": "16:00",
+          "close": "21:00"
+        },
+        null,
+        null
+      ],
+      "hours_source": "https://www.blocktorock.it",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": "Mon/Sat/Sun closed; course-model"
+    },
+    {
+      "id": "it-boulderfactory-genova",
+      "gym_name": "Boulder Factory",
+      "days": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        null
+      ],
+      "hours_source": "https://www.boulderfactory.it",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": "Sun only in bad weather"
+    },
+    {
       "id": "it-bside-torino",
       "gym_name": "B-Side Climbing Village",
       "days": [
@@ -684,6 +786,42 @@
       "notes": "Weekend hours Nov-Apr; reduced/closed weekends in summer"
     },
     {
+      "id": "it-climbinghangar-frascati",
+      "gym_name": "Climbing Hangar Frascati",
+      "days": [
+        {
+          "open": "10:00",
+          "close": "22:30"
+        },
+        {
+          "open": "10:00",
+          "close": "22:30"
+        },
+        {
+          "open": "10:00",
+          "close": "22:30"
+        },
+        {
+          "open": "10:00",
+          "close": "22:30"
+        },
+        {
+          "open": "10:00",
+          "close": "22:30"
+        },
+        {
+          "open": "10:30",
+          "close": "19:00"
+        },
+        null
+      ],
+      "hours_source": "https://www.hangarfrascati.com",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": "Sun closed"
+    },
+    {
       "id": "it-climbingside-roma",
       "gym_name": "Climbing Side (Ciclope)",
       "days": [
@@ -753,6 +891,72 @@
       "notes": "Last entry 21:15; weekend not confirmed"
     },
     {
+      "id": "it-gam-taglio",
+      "gym_name": "GAM - Modern Mountaineering Group",
+      "days": [
+        {
+          "open": "09:30",
+          "close": "22:30"
+        },
+        {
+          "open": "09:30",
+          "close": "22:30"
+        },
+        {
+          "open": "09:30",
+          "close": "22:30"
+        },
+        {
+          "open": "09:30",
+          "close": "22:30"
+        },
+        {
+          "open": "09:30",
+          "close": "22:30"
+        },
+        null,
+        null
+      ],
+      "hours_source": "https://gamclimbing.eu/ingressi-abbonamenti/",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": "Access by reservation; weekend varies"
+    },
+    {
+      "id": "it-junglerock-borgopiave",
+      "gym_name": "Jungle Rock",
+      "days": [
+        {
+          "open": "18:00",
+          "close": "22:00"
+        },
+        {
+          "open": "18:00",
+          "close": "22:00"
+        },
+        {
+          "open": "18:00",
+          "close": "22:00"
+        },
+        {
+          "open": "18:00",
+          "close": "22:00"
+        },
+        {
+          "open": "18:00",
+          "close": "22:00"
+        },
+        null,
+        null
+      ],
+      "hours_source": "https://www.junglerock.it/la-palestra",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": "Sat-Sun closed; booking required"
+    },
+    {
       "id": "it-manga-milano",
       "gym_name": "Manga Climbing",
       "days": [
@@ -790,6 +994,42 @@
       "hours_confidence": "high",
       "verified_date": "2026-06-29",
       "notes": null
+    },
+    {
+      "id": "it-overest-ariccia",
+      "gym_name": "Overest Climbing Club",
+      "days": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        {
+          "open": "10:00",
+          "close": "20:00"
+        },
+        null
+      ],
+      "hours_source": "https://overestclimbingclub.it",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": "Sun closed"
     },
     {
       "id": "it-palaroccia-quarto",
@@ -942,6 +1182,84 @@
       "notes": null
     },
     {
+      "id": "it-rockmaster-arco",
+      "gym_name": "Rock Master Climbing Stadium",
+      "days": [
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "hours_source": "https://rockmaster.com",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": "Public climbing Apr-Sep only"
+    },
+    {
+      "id": "it-sanbapolis-trento",
+      "gym_name": "SanbàPolis",
+      "days": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        },
+        {
+          "open": "12:00",
+          "close": "22:00"
+        },
+        {
+          "open": "12:00",
+          "close": "22:00"
+        },
+        {
+          "open": "12:00",
+          "close": "22:00"
+        },
+        {
+          "open": "12:00",
+          "close": "22:00"
+        },
+        {
+          "open": "09:00",
+          "close": "22:00"
+        },
+        {
+          "open": "09:00",
+          "close": "22:00"
+        }
+      ],
+      "hours_source": "https://www.operauni.tn.it/palestradiroccia/",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": "9-12 only w/ subscription or online ticket; activities end 21:30"
+    },
+    {
       "id": "it-scalart-palermo",
       "gym_name": "Scalart",
       "days": [
@@ -1008,6 +1326,114 @@
       "notes": "Mon-Fri 9-22 per site; weekend not listed (left blank)"
     },
     {
+      "id": "it-stoneage-uboldo",
+      "gym_name": "Stone Age Climbing Park",
+      "days": [
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        {
+          "open": "10:00",
+          "close": "23:00"
+        },
+        {
+          "open": "10:00",
+          "close": "20:00"
+        },
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "hours_source": "http://www.stoneageclimb.it/orari-e-prezzi.html",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": null
+    },
+    {
+      "id": "it-stonetemple-alberi",
+      "gym_name": "Stone Temple",
+      "days": [
+        {
+          "open": "10:00",
+          "close": "22:30"
+        },
+        {
+          "open": "10:00",
+          "close": "22:30"
+        },
+        {
+          "open": "10:00",
+          "close": "22:30"
+        },
+        {
+          "open": "10:00",
+          "close": "22:30"
+        },
+        {
+          "open": "10:00",
+          "close": "22:30"
+        },
+        {
+          "open": "10:00",
+          "close": "19:30"
+        },
+        null
+      ],
+      "hours_source": "https://www.stonetempleclimbing.com",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": "Sun closed Jun-Sep"
+    },
+    {
+      "id": "it-thefarm-capannori",
+      "gym_name": "The Farm Boulder Gym",
+      "days": [
+        {
+          "open": "16:00",
+          "close": "23:00"
+        },
+        {
+          "open": "16:00",
+          "close": "23:00"
+        },
+        {
+          "open": "16:00",
+          "close": "23:00"
+        },
+        {
+          "open": "16:00",
+          "close": "23:00"
+        },
+        {
+          "open": "16:00",
+          "close": "23:00"
+        },
+        null,
+        null
+      ],
+      "hours_source": "https://palestre.fitness/it/i/4710-the-farm-boulder-gym/",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": "Sat-Sun closed"
+    },
+    {
       "id": "it-up-bologna",
       "gym_name": "UP Urban Climbing",
       "days": [
@@ -1047,6 +1473,45 @@
       "notes": "Climbing halls close ~20-30min before; Sun closed mid-Jun to mid-Sep"
     },
     {
+      "id": "it-urbanwall-pero",
+      "gym_name": "Urban Wall Milano Climbing Factory",
+      "days": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        },
+        {
+          "open": "10:00",
+          "close": "20:00"
+        },
+        {
+          "open": "10:00",
+          "close": "20:00"
+        },
+        {
+          "open": "10:00",
+          "close": "20:00"
+        },
+        {
+          "open": "10:00",
+          "close": "20:00"
+        },
+        {
+          "open": "10:00",
+          "close": "19:30"
+        },
+        {
+          "open": "10:00",
+          "close": "19:30"
+        }
+      ],
+      "hours_source": "https://www.urbanwall.it",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": "Bar open later; weekends summer only in bad weather"
+    },
+    {
       "id": "it-verticalpark-roma",
       "gym_name": "Vertical Park",
       "days": [
@@ -1081,6 +1546,45 @@
       "hours_confidence": "high",
       "verified_date": "2026-06-29",
       "notes": "Sun closed"
+    },
+    {
+      "id": "it-vertikale-bressanone",
+      "gym_name": "Vertikale",
+      "days": [
+        {
+          "open": "12:00",
+          "close": "22:30"
+        },
+        {
+          "open": "12:00",
+          "close": "22:30"
+        },
+        {
+          "open": "12:00",
+          "close": "22:30"
+        },
+        {
+          "open": "12:00",
+          "close": "22:30"
+        },
+        {
+          "open": "12:00",
+          "close": "22:30"
+        },
+        {
+          "open": "10:00",
+          "close": "22:30"
+        },
+        {
+          "open": "10:00",
+          "close": "20:30"
+        }
+      ],
+      "hours_source": "https://vertikale.it/it/prezzi/",
+      "hours_status": "verified",
+      "hours_confidence": "high",
+      "verified_date": "2026-06-29",
+      "notes": "Sun/holidays 10-20:30"
     }
   ]
 }
